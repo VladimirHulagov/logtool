@@ -1,0 +1,9 @@
+__pycache__
+*.sqlite
+*.pickle
+
+scripts/*.log
+scripts/*.json
+scripts/*.pickle
+scripts/tmp/
+logtool/api/auth.py

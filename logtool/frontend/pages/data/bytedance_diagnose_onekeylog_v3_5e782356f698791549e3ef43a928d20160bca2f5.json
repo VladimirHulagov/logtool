@@ -1,0 +1,3379 @@
+{
+    "version": "v3",
+    "commit": "5e782356f698791549e3ef43a928d20160bca2f5",
+    "results": [
+        {
+            "idx": 14,
+            "results": []
+        },
+        {
+            "idx": 18,
+            "results": []
+        },
+        {
+            "idx": 24,
+            "results": []
+        },
+        {
+            "idx": 28,
+            "results": [
+                null,
+                null
+            ]
+        },
+        {
+            "idx": 45,
+            "results": []
+        },
+        {
+            "idx": 54,
+            "results": [
+                null,
+                null,
+                null,
+                null
+            ]
+        },
+        {
+            "idx": 57,
+            "results": []
+        },
+        {
+            "idx": 63,
+            "results": [
+                null,
+                null
+            ]
+        },
+        {
+            "idx": 65,
+            "results": []
+        },
+        {
+            "idx": 34,
+            "results": [
+                {
+                    "issue": "No Error Detected",
+                    "diagnose": "",
+                    "suggestion": "",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 60,
+            "results": [
+                {
+                    "issue": "Signature.KeyEvents",
+                    "diagnose": "",
+                    "suggestion": "",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 2,
+            "results": [
+                {
+                    "issue": "Signature.KeyEvents",
+                    "diagnose": "",
+                    "suggestion": "",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 6,
+            "results": [
+                null,
+                null,
+                {
+                    "issue": "Signature.KeyEvents",
+                    "diagnose": "",
+                    "suggestion": "",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 12,
+            "results": [
+                {
+                    "issue": "Signature.KeyEvents",
+                    "diagnose": "",
+                    "suggestion": "",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 70,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 73,
+            "results": [
+                {
+                    "issue": "Signature.KeyEvents",
+                    "diagnose": "",
+                    "suggestion": "",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 47,
+            "results": [
+                null,
+                {
+                    "issue": "Signature.KeyEvents",
+                    "diagnose": "",
+                    "suggestion": "",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 76,
+            "results": []
+        },
+        {
+            "idx": 39,
+            "results": [
+                null,
+                null,
+                null,
+                null,
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                null,
+                null,
+                null
+            ]
+        },
+        {
+            "idx": 16,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 61,
+            "results": [
+                null,
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 62,
+            "results": [
+                null,
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 81,
+            "results": []
+        },
+        {
+            "idx": 37,
+            "results": [
+                null,
+                {
+                    "issue": "Signature.KeyEvents",
+                    "diagnose": "",
+                    "suggestion": "",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 83,
+            "results": []
+        },
+        {
+            "idx": 31,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 80,
+            "results": [
+                {
+                    "issue": "Signature.KeyEvents",
+                    "diagnose": "",
+                    "suggestion": "",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                null
+            ]
+        },
+        {
+            "idx": 1,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                null
+            ]
+        },
+        {
+            "idx": 3,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 8,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                null
+            ]
+        },
+        {
+            "idx": 52,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 40,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 42,
+            "results": [
+                null,
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                null
+            ]
+        },
+        {
+            "idx": 44,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 69,
+            "results": [
+                {
+                    "issue": "Signature.KeyEvents",
+                    "diagnose": "",
+                    "suggestion": "",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 74,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 13,
+            "results": [
+                null,
+                null,
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 84,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 55,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 68,
+            "results": [
+                {
+                    "issue": "Signature.KeyEvents",
+                    "diagnose": "",
+                    "suggestion": "",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 87,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 10,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 21,
+            "results": [
+                {
+                    "issue": "Signature.KeyEvents",
+                    "diagnose": "",
+                    "suggestion": "",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                null
+            ]
+        },
+        {
+            "idx": 7,
+            "results": [
+                {
+                    "issue": "Signature.KeyEvents",
+                    "diagnose": "",
+                    "suggestion": "",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 71,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 25,
+            "results": [
+                null,
+                null,
+                {
+                    "issue": "Signature.KeyEvents",
+                    "diagnose": "",
+                    "suggestion": "",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "Signature.KeyEvents",
+                    "diagnose": "",
+                    "suggestion": "",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 82,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 77,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 107,
+            "results": []
+        },
+        {
+            "idx": 32,
+            "results": [
+                null,
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                null,
+                null,
+                null
+            ]
+        },
+        {
+            "idx": 15,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 56,
+            "results": [
+                null,
+                null,
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 110,
+            "results": [
+                null,
+                {
+                    "issue": "Signature.KeyEvents",
+                    "diagnose": "",
+                    "suggestion": "",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 49,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 102,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 95,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 53,
+            "results": [
+                null,
+                null,
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 19,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 50,
+            "results": [
+                null,
+                null,
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 88,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 104,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 46,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 93,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 79,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 92,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 43,
+            "results": [
+                null,
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 125,
+            "results": []
+        },
+        {
+            "idx": 41,
+            "results": [
+                null,
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 96,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                null
+            ]
+        },
+        {
+            "idx": 9,
+            "results": [
+                null,
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                null,
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 48,
+            "results": [
+                null,
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                null,
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 98,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 131,
+            "results": [
+                null
+            ]
+        },
+        {
+            "idx": 101,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 133,
+            "results": []
+        },
+        {
+            "idx": 85,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 59,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 35,
+            "results": [
+                null,
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                null,
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                null,
+                null
+            ]
+        },
+        {
+            "idx": 121,
+            "results": [
+                {
+                    "issue": "Signature.KeyEvents",
+                    "diagnose": "",
+                    "suggestion": "",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 22,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 64,
+            "results": [
+                null,
+                null,
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 51,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 5,
+            "results": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                null,
+                null
+            ]
+        },
+        {
+            "idx": 111,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 86,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                null
+            ]
+        },
+        {
+            "idx": 26,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 145,
+            "results": [
+                null
+            ]
+        },
+        {
+            "idx": 146,
+            "results": []
+        },
+        {
+            "idx": 100,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                null,
+                null
+            ]
+        },
+        {
+            "idx": 27,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 72,
+            "results": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 138,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                null
+            ]
+        },
+        {
+            "idx": 4,
+            "results": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                null,
+                null
+            ]
+        },
+        {
+            "idx": 116,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 115,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                null,
+                null
+            ]
+        },
+        {
+            "idx": 67,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 29,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                null,
+                null
+            ]
+        },
+        {
+            "idx": 94,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 148,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 158,
+            "results": [
+                {
+                    "issue": "Signature.KeyEvents",
+                    "diagnose": "",
+                    "suggestion": "",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 137,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 11,
+            "results": [
+                null,
+                null,
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 78,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 159,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 97,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 119,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 109,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 105,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                null,
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 117,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 89,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 163,
+            "results": [
+                {
+                    "issue": "Signature.KeyEvents",
+                    "diagnose": "",
+                    "suggestion": "",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 162,
+            "results": [
+                {
+                    "issue": "Signature.KeyEvents",
+                    "diagnose": "",
+                    "suggestion": "",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 135,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 114,
+            "results": [
+                null,
+                null,
+                {
+                    "issue": "Signature.KeyEvents",
+                    "diagnose": "",
+                    "suggestion": "",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 118,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 140,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                null,
+                null
+            ]
+        },
+        {
+            "idx": 147,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                null
+            ]
+        },
+        {
+            "idx": 17,
+            "results": [
+                null,
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                null
+            ]
+        },
+        {
+            "idx": 113,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 142,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 177,
+            "results": [
+                {
+                    "issue": "Signature.KeyEvents",
+                    "diagnose": "",
+                    "suggestion": "",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 132,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 179,
+            "results": [
+                {
+                    "issue": "Signature.KeyEvents",
+                    "diagnose": "",
+                    "suggestion": "",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                null
+            ]
+        },
+        {
+            "idx": 156,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 120,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 161,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 185,
+            "results": []
+        },
+        {
+            "idx": 186,
+            "results": []
+        },
+        {
+            "idx": 103,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 151,
+            "results": [
+                {
+                    "issue": "Signature.KeyEvents",
+                    "diagnose": "",
+                    "suggestion": "",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 136,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 154,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 191,
+            "results": []
+        },
+        {
+            "idx": 141,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                null,
+                null
+            ]
+        },
+        {
+            "idx": 193,
+            "results": []
+        },
+        {
+            "idx": 194,
+            "results": []
+        },
+        {
+            "idx": 175,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 33,
+            "results": [
+                null,
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 30,
+            "results": [
+                null,
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 91,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "Signature.KeyEvents",
+                    "diagnose": "",
+                    "suggestion": "",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "Signature.KeyEvents",
+                    "diagnose": "",
+                    "suggestion": "",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 190,
+            "results": [
+                {
+                    "issue": "Signature.KeyEvents",
+                    "diagnose": "",
+                    "suggestion": "",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 197,
+            "results": [
+                {
+                    "issue": "Signature.KeyEvents",
+                    "diagnose": "",
+                    "suggestion": "",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                null
+            ]
+        },
+        {
+            "idx": 150,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 169,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 129,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 38,
+            "results": [
+                null,
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 128,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 127,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 23,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 58,
+            "results": [
+                null,
+                null,
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 139,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                null,
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 108,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 123,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 168,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 192,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 144,
+            "results": [
+                null,
+                null,
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 171,
+            "results": [
+                null,
+                null,
+                null,
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                null,
+                null,
+                null
+            ]
+        },
+        {
+            "idx": 178,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 66,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 160,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 157,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 174,
+            "results": [
+                null,
+                null,
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 130,
+            "results": [
+                null,
+                null,
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 90,
+            "results": [
+                null,
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 203,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 188,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 187,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 195,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 198,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 20,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 200,
+            "results": [
+                {
+                    "issue": "Signature.KeyEvents",
+                    "diagnose": "",
+                    "suggestion": "",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 189,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 155,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 167,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 153,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 176,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 106,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 134,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 149,
+            "results": [
+                null,
+                {
+                    "issue": "Signature.KeyEvents",
+                    "diagnose": "",
+                    "suggestion": "",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 166,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 184,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 75,
+            "results": [
+                null,
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                null,
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                null,
+                null,
+                null,
+                null
+            ]
+        },
+        {
+            "idx": 152,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 196,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 122,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 143,
+            "results": [
+                null,
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 199,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 172,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 181,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 202,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 124,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 126,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 182,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 180,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 99,
+            "results": [
+                null,
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                null,
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 170,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 112,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                null,
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 201,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 165,
+            "results": [
+                null,
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                null
+            ]
+        },
+        {
+            "idx": 173,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 0,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 36,
+            "results": [
+                null,
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                null
+            ]
+        },
+        {
+            "idx": 164,
+            "results": [
+                null,
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                null
+            ]
+        },
+        {
+            "idx": 183,
+            "results": [
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "InvalidLog.NoData",
+                    "diagnose": "This is a/an [InvalidLog.NoData] issue, There is no valid uncorrectable MCA Error or TOR data to support diagnose.",
+                    "suggestion": "The crashdump is incomplete. Please check if there is something wrong with the ACD collection.",
+                    "action": "",
+                    "category": "",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        }
+    ]
+}

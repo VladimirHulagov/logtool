@@ -1,0 +1,56 @@
+   1 |  Pre-Init  |0000000049| Processor CPU0_Status | Presence detected | Asserted
+   2 |  Pre-Init  |0000000049| Processor CPU1_Status | Presence detected | Asserted
+   3 | 01/16/2023 | 19:22:17 | Microcontroller BMC_Boot_Up | Device Enabled | Asserted
+   4 | 01/16/2023 | 19:22:17 | System ACPI Power State ACPI_PWR_Status | S0/G0: working | Asserted
+   5 | 01/16/2023 | 19:22:21 | Power Supply PS1_Status | Presence detected | Asserted
+   6 | 01/16/2023 | 19:22:21 | Power Supply PS2_Status | Presence detected | Asserted
+   7 |  Pre-Init  |0000000013| Processor CPU0_Status | Presence detected | Asserted
+   8 |  Pre-Init  |0000000013| Processor CPU1_Status | Presence detected | Asserted
+   9 | 01/16/2023 | 19:24:45 | Microcontroller BMC_Boot_Up | Device Enabled | Asserted
+   a | 01/16/2023 | 19:24:45 | System ACPI Power State ACPI_PWR_Status | S0/G0: working | Asserted
+   b | 01/16/2023 | 19:24:49 | Power Supply PS1_Status | Presence detected | Asserted
+   c | 01/16/2023 | 19:24:49 | Power Supply PS2_Status | Presence detected | Asserted
+   d | 01/16/2023 | 19:34:39 | System ACPI Power State ACPI_PWR_Status | S4/S5: soft-off | Asserted
+   e | 01/16/2023 | 19:34:50 | System ACPI Power State ACPI_PWR_Status | S0/G0: working | Asserted
+   f | 01/16/2023 | 19:37:28 | System Boot Initiated BIOS_Boot_Up | Initiated by power up | Asserted
+  10 | 01/16/2023 | 19:40:42 | System ACPI Power State ACPI_PWR_Status | S4/S5: soft-off | Asserted
+  11 | 01/16/2023 | 19:42:36 | System ACPI Power State ACPI_PWR_Status | S0/G0: working | Asserted
+  12 | 01/16/2023 | 19:43:22 | System Boot Initiated BIOS_Boot_Up | Initiated by power up | Asserted
+  13 | 01/16/2023 | 19:55:41 | System ACPI Power State ACPI_PWR_Status | S4/S5: soft-off | Asserted
+  14 | 01/16/2023 | 19:55:53 | System ACPI Power State ACPI_PWR_Status | S0/G0: working | Asserted
+  15 | 01/16/2023 | 19:58:27 | System Boot Initiated BIOS_Boot_Up | Initiated by power up | Asserted
+  16 | 01/16/2023 | 20:01:51 | System ACPI Power State ACPI_PWR_Status | S4/S5: soft-off | Asserted
+  17 | 01/16/2023 | 20:03:44 | System ACPI Power State ACPI_PWR_Status | S0/G0: working | Asserted
+  18 | 01/16/2023 | 20:04:33 | System Boot Initiated BIOS_Boot_Up | Initiated by power up | Asserted
+  19 | 01/17/2023 | 03:32:32 | System ACPI Power State ACPI_PWR_Status | S4/S5: soft-off | Asserted
+  1a | 01/17/2023 | 03:32:50 | System ACPI Power State ACPI_PWR_Status | S0/G0: working | Asserted
+  1b | 01/17/2023 | 03:33:11 | System ACPI Power State ACPI_PWR_Status | S4/S5: soft-off | Asserted
+  1c | 01/17/2023 | 04:03:12 | System ACPI Power State ACPI_PWR_Status | S0/G0: working | Asserted
+  1d | 01/17/2023 | 04:03:59 | System Boot Initiated BIOS_Boot_Up | Initiated by power up | Asserted
+  1e | 01/17/2023 | 20:19:36 | System ACPI Power State ACPI_PWR_Status | S4/S5: soft-off | Asserted
+  1f | 01/28/2023 | 16:39:35 | System ACPI Power State ACPI_PWR_Status | S0/G0: working | Asserted
+  20 | 01/28/2023 | 16:40:23 | System Boot Initiated BIOS_Boot_Up | Initiated by power up | Asserted
+  21 | 01/28/2023 | 16:51:22 | System ACPI Power State ACPI_PWR_Status | S4/S5: soft-off | Asserted
+  22 | 01/28/2023 | 17:28:21 | System ACPI Power State ACPI_PWR_Status | S0/G0: working | Asserted
+  23 | 01/28/2023 | 17:28:52 | System ACPI Power State ACPI_PWR_Status | S4/S5: soft-off | Asserted
+  24 | 01/28/2023 | 17:28:57 | System ACPI Power State ACPI_PWR_Status | S0/G0: working | Asserted
+  25 | 01/28/2023 | 17:40:57 | System ACPI Power State ACPI_PWR_Status | S4/S5: soft-off | Asserted
+  26 | 01/28/2023 | 17:50:46 | System ACPI Power State ACPI_PWR_Status | S0/G0: working | Asserted
+  27 | 01/28/2023 | 19:11:48 | System Boot Initiated BIOS_Boot_Up | Initiated by power up | Asserted
+  28 | 01/28/2023 | 19:16:09 | System ACPI Power State ACPI_PWR_Status | S4/S5: soft-off | Asserted
+  29 | 01/28/2023 | 19:17:06 | System ACPI Power State ACPI_PWR_Status | S0/G0: working | Asserted
+  2a | 01/28/2023 | 19:17:53 | System Boot Initiated BIOS_Boot_Up | Initiated by power up | Asserted
+  2b | 02/07/2023 | 19:01:08 | System ACPI Power State ACPI_PWR_Status | S4/S5: soft-off | Asserted
+  2c | 02/07/2023 | 19:01:19 | System ACPI Power State ACPI_PWR_Status | S0/G0: working | Asserted
+  2d | 02/07/2023 | 19:02:05 | System Boot Initiated BIOS_Boot_Up | Initiated by power up | Asserted
+  2e | 02/07/2023 | 19:02:35 | System ACPI Power State ACPI_PWR_Status | S4/S5: soft-off | Asserted
+  2f | 02/08/2023 | 00:35:00 | System ACPI Power State ACPI_PWR_Status | S0/G0: working | Asserted
+  30 | 02/08/2023 | 00:35:46 | System Boot Initiated BIOS_Boot_Up | Initiated by power up | Asserted
+  31 | 02/10/2023 | 10:25:19 | System ACPI Power State ACPI_PWR_Status | S4/S5: soft-off | Asserted
+  32 | 02/10/2023 | 10:26:17 | System ACPI Power State ACPI_PWR_Status | S0/G0: working | Asserted
+  33 | 02/10/2023 | 10:27:03 | System Boot Initiated BIOS_Boot_Up | Initiated by power up | Asserted
+  34 | Linux kernel panic: Fatal machi
+  35 | Linux kernel panic: ne check
+  36 | 02/13/2023 | 13:46:51 | Processor CPU1_Status | Configuration Error | Asserted
+  37 | 02/13/2023 | 13:55:25 | Processor CPU1_Status | Configuration Error | Deasserted
+  38 | 02/13/2023 | 14:01:07 | System Boot Initiated BIOS_Boot_Up | Initiated by power up | Asserted

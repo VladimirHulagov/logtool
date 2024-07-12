@@ -1,0 +1,3704 @@
+{
+    "version": "v3",
+    "commit": "38127eaf1f2165a4120b7c598ae5d9c01eaea854",
+    "results": [
+        {
+            "idx": 14,
+            "results": []
+        },
+        {
+            "idx": 18,
+            "results": []
+        },
+        {
+            "idx": 24,
+            "results": []
+        },
+        {
+            "idx": 28,
+            "results": [
+                null,
+                null
+            ]
+        },
+        {
+            "idx": 45,
+            "results": []
+        },
+        {
+            "idx": 54,
+            "results": [
+                null,
+                null,
+                null,
+                null
+            ]
+        },
+        {
+            "idx": 57,
+            "results": []
+        },
+        {
+            "idx": 63,
+            "results": [
+                null,
+                null
+            ]
+        },
+        {
+            "idx": 65,
+            "results": []
+        },
+        {
+            "idx": 34,
+            "results": [
+                {
+                    "issue": "No Error Detected",
+                    "diagnose": "No Error Detected",
+                    "suggestion": "Keep monitoring",
+                    "action": "Keep monitoring",
+                    "category": "Others.Unknown",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 60,
+            "results": [
+                {
+                    "issue": "HW.DIMM",
+                    "diagnose": "A memory device has been disabled",
+                    "suggestion": "Error occurred at [CPU0-CH5-DIMM1, CPU0-CH3-DIMM0, CPU0-CH5-DIMM0, CPU0-CH6-DIMM1, CPU0-CH2-DIMM1, CPU0-CH4-DIMM1, CPU0-CH7-DIMM1, CPU0-CH3-DIMM1, CPU0-CH0-DIMM1, CPU0-CH1-DIMM1]. MRC MinorCode:0x13; MRC MajorCode:0x31. Please check the DIMM.",
+                    "action": "Platform.ReplaceDIMM",
+                    "category": "PlatformFocused.DIMMRelated",
+                    "ppin_list": null,
+                    "event_time": "2023-09-28T17:33:20.861429Z"
+                }
+            ]
+        },
+        {
+            "idx": 2,
+            "results": [
+                {
+                    "issue": "HW.DIMM",
+                    "diagnose": "A memory device has been disabled",
+                    "suggestion": "Error occurred at [CPU0-CH5-DIMM1, CPU0-CH3-DIMM0, CPU0-CH5-DIMM0, CPU0-CH6-DIMM1, CPU0-CH2-DIMM1, CPU0-CH4-DIMM1, CPU0-CH7-DIMM1, CPU0-CH3-DIMM1, CPU0-CH0-DIMM1, CPU0-CH1-DIMM1]. MRC MinorCode:0x13; MRC MajorCode:0x31. Please check the DIMM.",
+                    "action": "Platform.ReplaceDIMM",
+                    "category": "PlatformFocused.DIMMRelated",
+                    "ppin_list": null,
+                    "event_time": "2023-09-28T17:33:20.861429Z"
+                }
+            ]
+        },
+        {
+            "idx": 6,
+            "results": [
+                null,
+                null,
+                {
+                    "issue": "Unknown Error Detected",
+                    "diagnose": "Unknown Error Detected",
+                    "suggestion": "Keep Monitoring",
+                    "action": "Keep Monitoring",
+                    "category": "Others.Unknown",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 12,
+            "results": [
+                {
+                    "issue": "HW.DIMM",
+                    "diagnose": "A memory device has been disabled",
+                    "suggestion": "Error occurred at [CPU1-CH3-DIMM0, CPU1-CH1-DIMM0, CPU1-CH0-DIMM0, CPU1-CH7-DIMM0, CPU1-CH6-DIMM0, CPU1-CH5-DIMM0]. MRC MajorCode:0x46; MRC MinorCode:0x03. Please check the DIMM.",
+                    "action": "Platform.ReplaceDIMM",
+                    "category": "PlatformFocused.DIMMRelated",
+                    "ppin_list": null,
+                    "event_time": "2023-10-26T01:39:35.269156Z"
+                }
+            ]
+        },
+        {
+            "idx": 73,
+            "results": [
+                {
+                    "issue": "HW.DIMM",
+                    "diagnose": "A memory device has been disabled",
+                    "suggestion": "Error occurred at [CPU1-CH5-DIMM1, CPU1-CH1-DIMM1, CPU1-CH2-DIMM0, CPU0-CH1-DIMM0, CPU0-CH2-DIMM0, CPU1-CH7-DIMM1, CPU1-CH3-DIMM1, CPU0-CH5-DIMM1, CPU1-CH6-DIMM1, CPU0-CH3-DIMM1, CPU0-CH0-DIMM1, CPU1-CH0-DIMM1, CPU1-CH1-DIMM0, CPU0-CH6-DIMM1, CPU0-CH2-DIMM1, CPU1-CH2-DIMM1, CPU0-CH3-DIMM0, CPU1-CH3-DIMM0, CPU1-CH4-DIMM1, CPU1-CH0-DIMM0, CPU0-CH4-DIMM1, CPU0-CH0-DIMM0, CPU0-CH1-DIMM1]. MRC MajorCode:0x46; MRC MinorCode:0x04. Please check the DIMM.",
+                    "action": "Platform.ReplaceDIMM",
+                    "category": "PlatformFocused.DIMMRelated",
+                    "ppin_list": null,
+                    "event_time": "2024-02-14T07:18:04.043563Z"
+                }
+            ]
+        },
+        {
+            "idx": 47,
+            "results": [
+                null,
+                {
+                    "issue": "Unknown Error Detected",
+                    "diagnose": "Unknown Error Detected",
+                    "suggestion": "Keep Monitoring",
+                    "action": "Keep Monitoring",
+                    "category": "Others.Unknown",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 70,
+            "results": [
+                {
+                    "issue": "HW.PCIe",
+                    "diagnose": "Suspect that PCIe error occured.",
+                    "suggestion": "Error occurred at [Bus183-Dev1-Func0], please check the PCIE Device.",
+                    "action": "Platform.ReplacePCIe",
+                    "category": "PlatformFocused.PCIeRelated",
+                    "ppin_list": null,
+                    "event_time": "2024-01-11T06:11:24.118542Z"
+                }
+            ]
+        },
+        {
+            "idx": 76,
+            "results": []
+        },
+        {
+            "idx": 39,
+            "results": [
+                null,
+                null,
+                null,
+                null,
+                {
+                    "issue": "HW.HANG.Core:Core inaccessible from PECI, suspected 3 Strike Error without TORTO.incomplete_dump.mca_zero_value",
+                    "diagnose": "Core Inaccessible From PECI",
+                    "suggestion": "Please update the microcode >= 0x2b000461(PLR1), ensure acd version >= BMC_EGS_2.0.2 and monitor.",
+                    "action": "Platform.UpdateMicrocode",
+                    "category": "PlatformFocused.OutdatedBKC",
+                    "ppin_list": [
+                        "0"
+                    ],
+                    "event_time": "2023-12-05T03:37:48Z"
+                },
+                null,
+                null,
+                null
+            ]
+        },
+        {
+            "idx": 37,
+            "results": [
+                null,
+                {
+                    "issue": "HW.DIMM",
+                    "diagnose": "A memory device has been disabled",
+                    "suggestion": "Error occurred at [CPU1-CH1-DIMM1, CPU1-CH4-DIMM1, CPU1-CH6-DIMM1, CPU1-CH2-DIMM1, CPU1-CH7-DIMM1, CPU1-CH0-DIMM1]. Please check the DIMM.",
+                    "action": "Platform.ReplaceDIMM",
+                    "category": "PlatformFocused.DIMMRelated",
+                    "ppin_list": null,
+                    "event_time": "2023-12-04T20:32:43.552417Z"
+                }
+            ]
+        },
+        {
+            "idx": 62,
+            "results": [
+                null,
+                {
+                    "issue": "FW.Ucode.PcuError",
+                    "diagnose": "PCU Dispatcher Run Busy Timeout error",
+                    "suggestion": "Please update the microcode above 0x2b000571",
+                    "action": "FW.UpgradeUcode",
+                    "category": "PlatformFocused.OutdatedBKC",
+                    "ppin_list": [],
+                    "event_time": "2024-01-04T05:13:20Z"
+                },
+                {
+                    "issue": "FW.Ucode.PcuError",
+                    "diagnose": "PCU Dispatcher Run Busy Timeout error",
+                    "suggestion": "Please update the microcode above 0x2b000571",
+                    "action": "FW.UpgradeUcode",
+                    "category": "PlatformFocused.OutdatedBKC",
+                    "ppin_list": [],
+                    "event_time": "2024-01-04T05:13:20Z"
+                }
+            ]
+        },
+        {
+            "idx": 61,
+            "results": [
+                null,
+                {
+                    "issue": "FW.Ucode.PcuError",
+                    "diagnose": "PCU Dispatcher Run Busy Timeout error",
+                    "suggestion": "Please update the microcode above 0x2b000571",
+                    "action": "FW.UpgradeUcode",
+                    "category": "PlatformFocused.OutdatedBKC",
+                    "ppin_list": [],
+                    "event_time": "2024-01-04T05:13:20Z"
+                },
+                {
+                    "issue": "FW.Ucode.PcuError",
+                    "diagnose": "PCU Dispatcher Run Busy Timeout error",
+                    "suggestion": "Please update the microcode above 0x2b000571",
+                    "action": "FW.UpgradeUcode",
+                    "category": "PlatformFocused.OutdatedBKC",
+                    "ppin_list": [],
+                    "event_time": "2024-01-04T05:13:20Z"
+                }
+            ]
+        },
+        {
+            "idx": 81,
+            "results": []
+        },
+        {
+            "idx": 3,
+            "results": [
+                {
+                    "issue": "HW.MCE.PCU:Gpsb_Timeout",
+                    "diagnose": "Sideband does not respond within timeout value",
+                    "suggestion": "It's potential CPU defect. Please replace CPU0(0xcc8c7039a987b576) and send to FACR.",
+                    "action": "CPU.FACR",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XCC8C7039A987B576"
+                    ],
+                    "event_time": "2023-10-08T02:43:15Z"
+                }
+            ]
+        },
+        {
+            "idx": 83,
+            "results": []
+        },
+        {
+            "idx": 80,
+            "results": [
+                {
+                    "issue": "HW.Thermal",
+                    "diagnose": "CPU temperature is over the threshold and the CPU is automatically throttled",
+                    "suggestion": "Please try to reboot, switch CPU and MB, clean the Pins, do stress test and run SHC/IFS/SLSM. Keep monitor if normal; replace CPU and contact Intel if consistent.",
+                    "action": "Platform.RemediationFlow",
+                    "category": "PlatformFocused.TransientPlatformBehavior",
+                    "ppin_list": null,
+                    "event_time": "2024-02-26T08:31:42.170169Z"
+                },
+                null
+            ]
+        },
+        {
+            "idx": 16,
+            "results": [
+                {
+                    "issue": "HW.CPU.MdfParityUE",
+                    "diagnose": "Modular Die Fabric Parity Error",
+                    "suggestion": "Replace CPU.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [],
+                    "event_time": "2023-11-06T11:59:54.084285Z"
+                }
+            ]
+        },
+        {
+            "idx": 52,
+            "results": [
+                {
+                    "issue": "HW.CPU.IfuParityUE",
+                    "diagnose": "Uncorrected IFU parity error. Potential DPM Exposure.",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XBB1C524091AFA28D"
+                    ],
+                    "event_time": "2023-12-19T22:11:13Z"
+                }
+            ]
+        },
+        {
+            "idx": 8,
+            "results": [
+                {
+                    "issue": "HW.DIMM.UncorrPatrolError",
+                    "diagnose": "DIMM Failure",
+                    "suggestion": "Replace DIMM.",
+                    "action": "HW.ReplaceDimm",
+                    "category": "PlatformFocused.DIMMRlated",
+                    "ppin_list": [],
+                    "event_time": "2023-10-14T09:14:11Z"
+                },
+                null
+            ]
+        },
+        {
+            "idx": 68,
+            "results": [
+                {
+                    "issue": "Unknown Error Detected",
+                    "diagnose": "Unknown Error Detected",
+                    "suggestion": "Keep Monitoring",
+                    "action": "Keep Monitoring",
+                    "category": "Others.Unknown",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "FW.Ucode.PcuError",
+                    "diagnose": "PCU Dispatcher Run Busy Timeout error",
+                    "suggestion": "Please update the microcode above 0x2b000571",
+                    "action": "FW.UpgradeUcode",
+                    "category": "PlatformFocused.OutdatedBKC",
+                    "ppin_list": [],
+                    "event_time": "2024-01-18T09:17:42Z"
+                },
+                {
+                    "issue": "FW.Ucode.PcuError",
+                    "diagnose": "PCU Dispatcher Run Busy Timeout error",
+                    "suggestion": "Please update the microcode above 0x2b000571",
+                    "action": "FW.UpgradeUcode",
+                    "category": "PlatformFocused.OutdatedBKC",
+                    "ppin_list": [],
+                    "event_time": "2024-01-18T09:17:42Z"
+                }
+            ]
+        },
+        {
+            "idx": 69,
+            "results": [
+                {
+                    "issue": "Unknown Error Detected",
+                    "diagnose": "Unknown Error Detected",
+                    "suggestion": "Keep Monitoring",
+                    "action": "Keep Monitoring",
+                    "category": "Others.Unknown",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "FW.Ucode.PcuError",
+                    "diagnose": "PCU Dispatcher Run Busy Timeout error",
+                    "suggestion": "Please update the microcode above 0x2b000571",
+                    "action": "FW.UpgradeUcode",
+                    "category": "PlatformFocused.OutdatedBKC",
+                    "ppin_list": [],
+                    "event_time": "2024-01-18T09:17:42Z"
+                },
+                {
+                    "issue": "FW.Ucode.PcuError",
+                    "diagnose": "PCU Dispatcher Run Busy Timeout error",
+                    "suggestion": "Please update the microcode above 0x2b000571",
+                    "action": "FW.UpgradeUcode",
+                    "category": "PlatformFocused.OutdatedBKC",
+                    "ppin_list": [],
+                    "event_time": "2024-01-18T09:17:42Z"
+                }
+            ]
+        },
+        {
+            "idx": 55,
+            "results": [
+                {
+                    "issue": "HW.CPU.ChaPoison",
+                    "diagnose": "CHA Poison Error",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XC2E0E800F1E5A749"
+                    ],
+                    "event_time": "2023-12-25T12:31:23Z"
+                },
+                {
+                    "issue": "HW.CPU.ChaPoison",
+                    "diagnose": "CHA Poison Error",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XC2E0E800F1E5A749"
+                    ],
+                    "event_time": "2023-12-25T12:31:23Z"
+                }
+            ]
+        },
+        {
+            "idx": 31,
+            "results": [
+                {
+                    "issue": "Unknown Error Detected",
+                    "diagnose": "Unknown Error Detected",
+                    "suggestion": "Keep Monitoring",
+                    "action": "Keep Monitoring",
+                    "category": "Others.Unknown",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 1,
+            "results": [
+                {
+                    "issue": "HW.CPU.MdfParityUE",
+                    "diagnose": "MLC Mesh Address Parity Error",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XDE5D8139F3CDB515"
+                    ],
+                    "event_time": "2023-10-05T21:16:49Z"
+                },
+                null
+            ]
+        },
+        {
+            "idx": 13,
+            "results": [
+                null,
+                null,
+                {
+                    "issue": "HW.CPU.IfuParityUE",
+                    "diagnose": "Uncorrected IFU parity error. Potential DPM Exposure.",
+                    "suggestion": "Replace CPU and contact Intel.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [],
+                    "event_time": "2023-10-29T23:56:47.273148Z"
+                }
+            ]
+        },
+        {
+            "idx": 7,
+            "results": [
+                {
+                    "issue": "Unknown Error Detected",
+                    "diagnose": "Unknown Error Detected",
+                    "suggestion": "Keep Monitoring",
+                    "action": "Keep Monitoring",
+                    "category": "Others.Unknown",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 25,
+            "results": [
+                null,
+                null,
+                {
+                    "issue": "Unknown Error Detected",
+                    "diagnose": "Unknown Error Detected",
+                    "suggestion": "Keep Monitoring",
+                    "action": "Keep Monitoring",
+                    "category": "Others.Unknown",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "HW.DIMM",
+                    "diagnose": "A memory device has been disabled",
+                    "suggestion": "Error occurred at [CPU1-CH0-DIMM0]. Please check the DIMM.",
+                    "action": "Platform.ReplaceDIMM",
+                    "category": "PlatformFocused.DIMMRelated",
+                    "ppin_list": null,
+                    "event_time": "2023-11-19T08:53:16.467318Z"
+                }
+            ]
+        },
+        {
+            "idx": 44,
+            "results": [
+                {
+                    "issue": "HW.CPU.DcuParityUE",
+                    "diagnose": "Uncorrected DCU parity error",
+                    "suggestion": "Replace CPU.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XC2F3FA36C1BF652C"
+                    ],
+                    "event_time": "2023-12-06T01:24:11Z"
+                },
+                {
+                    "issue": "HW.CPU.DcuParityUE",
+                    "diagnose": "Uncorrected DCU parity error",
+                    "suggestion": "Replace CPU.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XC2F3FA36C1BF652C"
+                    ],
+                    "event_time": "2023-12-06T01:24:11Z"
+                }
+            ]
+        },
+        {
+            "idx": 10,
+            "results": [
+                {
+                    "issue": "HW.CPU.MlcParityUE",
+                    "diagnose": "DCD MLC Parity Error",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0X5543782769CC4F53"
+                    ],
+                    "event_time": "2023-09-18T08:50:27Z"
+                }
+            ]
+        },
+        {
+            "idx": 74,
+            "results": [
+                {
+                    "issue": "HW.CPU.UpiUE",
+                    "diagnose": "Potential DPM exposure for UPI Link Error.",
+                    "suggestion": "Please contact Intel and goto FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0X2AACE3501984B044"
+                    ],
+                    "event_time": "2024-01-29T15:13:53Z"
+                }
+            ]
+        },
+        {
+            "idx": 40,
+            "results": [
+                {
+                    "issue": "HW.CPU.DcuParityUE",
+                    "diagnose": "Uncorrected DCU parity error",
+                    "suggestion": "Replace CPU.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0X2036E64AA1CECE3E"
+                    ],
+                    "event_time": "2023-12-06T04:14:55.118697Z"
+                }
+            ]
+        },
+        {
+            "idx": 21,
+            "results": [
+                {
+                    "issue": "HW.DIMM",
+                    "diagnose": "A memory device has been disabled",
+                    "suggestion": "Error occurred at [CPU0-CH5-DIMM1, CPU0-CH2-DIMM1, CPU0-CH4-DIMM1, CPU0-CH7-DIMM1, CPU0-CH3-DIMM1, CPU0-CH1-DIMM1]. Please check the DIMM.",
+                    "action": "Platform.ReplaceDIMM",
+                    "category": "PlatformFocused.DIMMRelated",
+                    "ppin_list": null,
+                    "event_time": "2023-11-24T06:37:18.415969Z"
+                },
+                null
+            ]
+        },
+        {
+            "idx": 84,
+            "results": [
+                {
+                    "issue": "HW.MCE:Shutdown_Error:_Mce_When_Cr4.Mce_Is_Clear",
+                    "diagnose": "HW.MCE:Shutdown_Error:_Mce_When_Cr4.Mce_Is_Clear",
+                    "suggestion": "Please try to reboot, switch CPU and MB, clean the Pins, do stress test and run SHC/IFS/SLSM. Keep monitor if normal; replace CPU and contact Intel if consistent.",
+                    "action": "Others.RemediationFlow",
+                    "category": "Others.Unknown",
+                    "ppin_list": [
+                        "0xc399d0daeceea845"
+                    ],
+                    "event_time": "2024-01-30T09:39:42Z"
+                }
+            ]
+        },
+        {
+            "idx": 42,
+            "results": [
+                null,
+                {
+                    "issue": "HW.ERR.MULTI.DCU_LOAD_POISON.MEM_ERR:Ddr/Ddrt_Link_Fail",
+                    "diagnose": "HW.ERR.MULTI.DCU_LOAD_POISON.MEM_ERR:Ddr/Ddrt_Link_Fail",
+                    "suggestion": "It is potential a memory related issue. Please replace the DIMM according to cpu0.mc3.ch0",
+                    "action": "Platform.ReplaceDIMM",
+                    "category": "PlatformFocused.DIMMRlated",
+                    "ppin_list": [
+                        "0xc3b7f777a4ed8c26"
+                    ],
+                    "event_time": "2023-12-10T08:01:48Z"
+                },
+                null
+            ]
+        },
+        {
+            "idx": 71,
+            "results": [
+                {
+                    "issue": "HW.MCE:Shutdown_Error:_Sw_Triple_Fault_Shutdown",
+                    "diagnose": "Shutdown Error",
+                    "suggestion": "It's potential OS or software issue. Please debug OS or software issue.",
+                    "action": "Platform.DebugOS/SW",
+                    "category": "PlatformFocused.OS/SWRelated",
+                    "ppin_list": [
+                        "0XB35CC9FE6371A010"
+                    ],
+                    "event_time": "2024-01-16T04:11:40Z"
+                }
+            ]
+        },
+        {
+            "idx": 32,
+            "results": [
+                null,
+                {
+                    "issue": "HW.CPU.MdfParityUE",
+                    "diagnose": "MLC Mesh Address Parity Error",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0X4BB2B9BF9EB74AF1"
+                    ],
+                    "event_time": "2023-11-28T18:19:23Z"
+                },
+                null,
+                null,
+                null
+            ]
+        },
+        {
+            "idx": 87,
+            "results": [
+                {
+                    "issue": "HW.CPU.ChaPoison",
+                    "diagnose": "CHA Poison Error",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0X44C0E04A7121B9BB"
+                    ],
+                    "event_time": "2024-02-21T06:52:31Z"
+                }
+            ]
+        },
+        {
+            "idx": 77,
+            "results": [
+                {
+                    "issue": "HW.MCE.CHA:Coh_Tt_Error",
+                    "diagnose": "Coherent Tracker Error",
+                    "suggestion": "It's potential CPU defect. Please replace CPU0(0xc2bb34a9ff2b640b) and send to FACR.",
+                    "action": "CPU.FACR",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XC2BB34A9FF2B640B"
+                    ],
+                    "event_time": "2024-01-14T20:43:15Z"
+                }
+            ]
+        },
+        {
+            "idx": 107,
+            "results": []
+        },
+        {
+            "idx": 15,
+            "results": [
+                {
+                    "issue": "HW.MCE:Shutdown_Error:_Sw_Triple_Fault_Shutdown",
+                    "diagnose": "Shutdown Error",
+                    "suggestion": "It's potential OS or software issue. Please debug OS or software issue.",
+                    "action": "Platform.DebugOS/SW",
+                    "category": "PlatformFocused.OS/SWRelated",
+                    "ppin_list": [
+                        "0XD97E7D392742E4C2"
+                    ],
+                    "event_time": "2023-11-01T18:16:38Z"
+                },
+                {
+                    "issue": "HW.MCE:Shutdown_Error:_Sw_Triple_Fault_Shutdown",
+                    "diagnose": "Shutdown Error",
+                    "suggestion": "It's potential OS or software issue. Please debug OS or software issue.",
+                    "action": "Platform.DebugOS/SW",
+                    "category": "PlatformFocused.OS/SWRelated",
+                    "ppin_list": [
+                        "0XD97E7D392742E4C2"
+                    ],
+                    "event_time": "2023-11-01T18:16:38Z"
+                }
+            ]
+        },
+        {
+            "idx": 102,
+            "results": [
+                {
+                    "issue": "HW.CPU.MdfParityUE",
+                    "diagnose": "Modular Die Fabric Parity Error",
+                    "suggestion": "Replace CPU.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XBBB3D14A11D36C89"
+                    ],
+                    "event_time": "2024-01-17T17:55:24Z"
+                }
+            ]
+        },
+        {
+            "idx": 82,
+            "results": [
+                {
+                    "issue": "HW.MCE.PCU:Recoverable_Die_Thermal_Too_Hot",
+                    "diagnose": "During slow loop, it was detected that internal die thermals is too hot.",
+                    "suggestion": "Please try to reboot, switch CPU and MB, clean the Pins, do stress test and run SHC/IFS/SLSM. Keep monitor if normal; replace CPU and contact Intel if consistent.",
+                    "action": "Platform.RemediationFlow",
+                    "category": "PlatformFocused.TransientPlatformBehavior",
+                    "ppin_list": [
+                        "0X4B5087BE89656674"
+                    ],
+                    "event_time": "2024-02-16T05:14:38Z"
+                },
+                {
+                    "issue": "HW.MCE.PCU:Recoverable_Die_Thermal_Too_Hot",
+                    "diagnose": "During slow loop, it was detected that internal die thermals is too hot.",
+                    "suggestion": "Please try to reboot, switch CPU and MB, clean the Pins, do stress test and run SHC/IFS/SLSM. Keep monitor if normal; replace CPU and contact Intel if consistent.",
+                    "action": "Platform.RemediationFlow",
+                    "category": "PlatformFocused.TransientPlatformBehavior",
+                    "ppin_list": [
+                        "0X4B5087BE89656674"
+                    ],
+                    "event_time": "2024-02-16T05:14:38Z"
+                }
+            ]
+        },
+        {
+            "idx": 43,
+            "results": [
+                null,
+                {
+                    "issue": "HW.MCE.DCU:Uncorr_Load_Poison_0010_0134",
+                    "diagnose": "HW.MCE.DCU:Uncorr_Load_Poison_0010_0134",
+                    "suggestion": "It is potential a memory related issue. Can not locate the DIMM, please try to switch DIMM or contact Intel.",
+                    "action": "Platform.ReplaceDIMM",
+                    "category": "PlatformFocused.DIMMRlated",
+                    "ppin_list": [
+                        "0x437fe74a99afd398"
+                    ],
+                    "event_time": "2023-12-10T15:51:22Z"
+                }
+            ]
+        },
+        {
+            "idx": 50,
+            "results": [
+                null,
+                null,
+                {
+                    "issue": "HW.HANG.Core:Core inaccessible from PECI, suspected 3 Strike Error without TORTO.incomplete_dump.mca_zero_value",
+                    "diagnose": "Core Inaccessible From PECI",
+                    "suggestion": "Please update the microcode >= 0x2b000461(PLR1), ensure acd version >= BMC_EGS_2.0.2 and monitor.",
+                    "action": "Platform.UpdateMicrocode",
+                    "category": "PlatformFocused.OutdatedBKC",
+                    "ppin_list": [
+                        "0"
+                    ],
+                    "event_time": "2023-12-19T13:31:35Z"
+                },
+                {
+                    "issue": "HW.HANG.Core:Core inaccessible from PECI, suspected 3 Strike Error without TORTO.incomplete_dump.mca_zero_value",
+                    "diagnose": "Core Inaccessible From PECI",
+                    "suggestion": "Please update the microcode >= 0x2b000461(PLR1), ensure acd version >= BMC_EGS_2.0.2 and monitor.",
+                    "action": "Platform.UpdateMicrocode",
+                    "category": "PlatformFocused.OutdatedBKC",
+                    "ppin_list": [
+                        "0"
+                    ],
+                    "event_time": "2023-12-19T13:31:35Z"
+                }
+            ]
+        },
+        {
+            "idx": 110,
+            "results": [
+                null,
+                {
+                    "issue": "HW.DIMM",
+                    "diagnose": "A memory device has been disabled",
+                    "suggestion": "Error occurred at [CPU1-CH1-DIMM0]. MRC MajorCode:0x29; MRC MinorCode:0x04. Please check the DIMM.",
+                    "action": "Platform.ReplaceDIMM",
+                    "category": "PlatformFocused.DIMMRelated",
+                    "ppin_list": null,
+                    "event_time": "2024-01-19T07:59:26.203547Z"
+                }
+            ]
+        },
+        {
+            "idx": 56,
+            "results": [
+                null,
+                null,
+                {
+                    "issue": "HW.CPU.IfuParityUE",
+                    "diagnose": "Uncorrected IFU parity error. Potential DPM Exposure.",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XE07A83396D954112",
+                        "0XE0CF5D39017E1756"
+                    ],
+                    "event_time": "2023-12-25T16:12:51Z"
+                }
+            ]
+        },
+        {
+            "idx": 95,
+            "results": [
+                {
+                    "issue": "Unknown Error Detected",
+                    "diagnose": "Unknown Error Detected",
+                    "suggestion": "Keep Monitoring",
+                    "action": "Keep Monitoring",
+                    "category": "Others.Unknown",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 64,
+            "results": [
+                null,
+                null,
+                {
+                    "issue": "HW.MCE:Shutdown_Error:_Sw_Triple_Fault_Shutdown",
+                    "diagnose": "Shutdown Error",
+                    "suggestion": "It's potential OS or software issue. Please debug OS or software issue.",
+                    "action": "Platform.DebugOS/SW",
+                    "category": "PlatformFocused.OS/SWRelated",
+                    "ppin_list": [
+                        "0XDE0560397F2B54C5"
+                    ],
+                    "event_time": "2023-12-28T01:37:22Z"
+                },
+                {
+                    "issue": "HW.MCE:Shutdown_Error:_Sw_Triple_Fault_Shutdown",
+                    "diagnose": "Shutdown Error",
+                    "suggestion": "It's potential OS or software issue. Please debug OS or software issue.",
+                    "action": "Platform.DebugOS/SW",
+                    "category": "PlatformFocused.OS/SWRelated",
+                    "ppin_list": [
+                        "0XDE0560397F2B54C5"
+                    ],
+                    "event_time": "2023-12-28T01:37:22Z"
+                }
+            ]
+        },
+        {
+            "idx": 35,
+            "results": [
+                null,
+                {
+                    "issue": "HW.CPU.IfuParityUE",
+                    "diagnose": "Uncorrected IFU parity error. Potential DPM Exposure.",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [],
+                    "event_time": "2023-11-30T07:58:11Z"
+                },
+                null,
+                {
+                    "issue": "HW.CPU.IfuParityUE",
+                    "diagnose": "Uncorrected IFU parity error. Potential DPM Exposure.",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [],
+                    "event_time": "2023-11-30T07:58:11Z"
+                },
+                null,
+                null
+            ]
+        },
+        {
+            "idx": 49,
+            "results": [
+                {
+                    "issue": "HW.CPU.DcuParityUE",
+                    "diagnose": "Uncorrected DCU parity error",
+                    "suggestion": "Replace CPU.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XE1CB2EEAE6DA1B62"
+                    ],
+                    "event_time": "2023-12-17T07:22:03Z"
+                },
+                {
+                    "issue": "HW.CPU.DcuParityUE",
+                    "diagnose": "Uncorrected DCU parity error",
+                    "suggestion": "Replace CPU.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XE1CB2EEAE6DA1B62"
+                    ],
+                    "event_time": "2023-12-17T07:22:03Z"
+                }
+            ]
+        },
+        {
+            "idx": 53,
+            "results": [
+                null,
+                null,
+                {
+                    "issue": "HW.HANG.Core:Core inaccessible from PECI, suspected 3 Strike Error without TORTO",
+                    "diagnose": "HW.HANG.Core:Core inaccessible from PECI, suspected 3 Strike Error without TORTO",
+                    "suggestion": "Please try to reboot, switch CPU and MB, clean the Pins, do stress test and run SHC/IFS/SLSM. Keep monitor if normal; replace CPU and contact Intel if consistent.",
+                    "action": "Others.RemediationFlow",
+                    "category": "Others.Unknown",
+                    "ppin_list": [
+                        "0xdeb14939fb42134e"
+                    ],
+                    "event_time": "2023-12-25T06:57:58Z"
+                }
+            ]
+        },
+        {
+            "idx": 104,
+            "results": [
+                {
+                    "issue": "HW.CPU.IfuParityUE",
+                    "diagnose": "Uncorrected IFU parity error. Potential DPM Exposure.",
+                    "suggestion": "Replace CPU and contact Intel.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0X439CED4A4D94462C"
+                    ],
+                    "event_time": "2024-02-09T14:07:43Z"
+                }
+            ]
+        },
+        {
+            "idx": 79,
+            "results": [
+                {
+                    "issue": "HW.CPU.ChaPoison",
+                    "diagnose": "CHA Poison Error",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0X2523174B1BACF455"
+                    ],
+                    "event_time": "2024-01-16T08:16:31Z"
+                }
+            ]
+        },
+        {
+            "idx": 101,
+            "results": [
+                {
+                    "issue": "HW.CPU.ChaPoison",
+                    "diagnose": "CHA Poison Error",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XA4F3FC4AE5841CA2"
+                    ],
+                    "event_time": "2024-01-31T00:39:47Z"
+                }
+            ]
+        },
+        {
+            "idx": 93,
+            "results": [
+                {
+                    "issue": "HW.CPU.MdfParityUE",
+                    "diagnose": "MLC Mesh Address Parity Error",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XB41C1A40A79256C6"
+                    ],
+                    "event_time": "2024-01-10T23:21:54Z"
+                }
+            ]
+        },
+        {
+            "idx": 48,
+            "results": [
+                null,
+                {
+                    "issue": "HW.CPU.UpiUE",
+                    "diagnose": "Potential DPM exposure for UPI Link Error.",
+                    "suggestion": "Please contact Intel and goto FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XC3B7DE7772CF357F"
+                    ],
+                    "event_time": "2023-12-15T22:52:54Z"
+                },
+                null,
+                {
+                    "issue": "HW.CPU.UpiUE",
+                    "diagnose": "Potential DPM exposure for UPI Link Error.",
+                    "suggestion": "Please contact Intel and goto FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XC3B7DE7772CF357F"
+                    ],
+                    "event_time": "2023-12-15T22:52:54Z"
+                }
+            ]
+        },
+        {
+            "idx": 125,
+            "results": []
+        },
+        {
+            "idx": 98,
+            "results": [
+                {
+                    "issue": "HW.CPU.ChaPoison",
+                    "diagnose": "CHA Poison Error",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0X26E7FD4A49960CA3"
+                    ],
+                    "event_time": "2024-01-05T04:05:12Z"
+                }
+            ]
+        },
+        {
+            "idx": 22,
+            "results": [
+                {
+                    "issue": "HW.STUCK_TRANSACTION.TOR:Tor_Timeout",
+                    "diagnose": "HW.STUCK_TRANSACTION.TOR:Tor_Timeout",
+                    "suggestion": "Please try to reboot, switch CPU and MB, clean the Pins, do stress test and run SHC/IFS/SLSM. Keep monitor if normal; replace CPU and contact Intel if consistent.",
+                    "action": "Others.RemediationFlow",
+                    "category": "Others.Unknown",
+                    "ppin_list": [
+                        "0xddd248398f9f0c81"
+                    ],
+                    "event_time": "2023-11-14T22:35:23Z"
+                },
+                {
+                    "issue": "HW.STUCK_TRANSACTION.TOR:Tor_Timeout",
+                    "diagnose": "HW.STUCK_TRANSACTION.TOR:Tor_Timeout",
+                    "suggestion": "Please try to reboot, switch CPU and MB, clean the Pins, do stress test and run SHC/IFS/SLSM. Keep monitor if normal; replace CPU and contact Intel if consistent.",
+                    "action": "Others.RemediationFlow",
+                    "category": "Others.Unknown",
+                    "ppin_list": [
+                        "0xddd248398f9f0c81"
+                    ],
+                    "event_time": "2023-11-14T22:35:23Z"
+                }
+            ]
+        },
+        {
+            "idx": 46,
+            "results": [
+                {
+                    "issue": "HW.CPU.MlcParityUE",
+                    "diagnose": "DCD MLC Parity Error",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0X30CBF04ADF42AF56"
+                    ],
+                    "event_time": "2023-12-12T15:56:17Z"
+                },
+                {
+                    "issue": "HW.CPU.MlcParityUE",
+                    "diagnose": "DCD MLC Parity Error",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0X30CBF04ADF42AF56"
+                    ],
+                    "event_time": "2023-12-12T15:56:17Z"
+                }
+            ]
+        },
+        {
+            "idx": 85,
+            "results": [
+                {
+                    "issue": "HW.CPU.ChaParityUE",
+                    "diagnose": "CHA Parity Error",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XAAE657401F73C362"
+                    ],
+                    "event_time": "2024-02-12T08:47:05Z"
+                }
+            ]
+        },
+        {
+            "idx": 5,
+            "results": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                {
+                    "issue": "HW.HANG.Core:Core inaccessible from PECI, suspected 3 Strike Error without TORTO",
+                    "diagnose": "Core Inaccessible From PECI",
+                    "suggestion": "Please update the microcode >= 0x2b000461(PLR1), ensure acd version >= BMC_EGS_2.0.2 and monitor.",
+                    "action": "Platform.UpdateMicrocode",
+                    "category": "PlatformFocused.OutdatedBKC",
+                    "ppin_list": [
+                        "C11EC7272FED832D"
+                    ],
+                    "event_time": "2023-10-09T13:01:35Z"
+                },
+                null,
+                null
+            ]
+        },
+        {
+            "idx": 131,
+            "results": [
+                null
+            ]
+        },
+        {
+            "idx": 41,
+            "results": [
+                null,
+                {
+                    "issue": "HW.DIMM.UncorrReadError",
+                    "diagnose": "DIMM Failure",
+                    "suggestion": "Replace DIMM.",
+                    "action": "HW.ReplaceDimm",
+                    "category": "PlatformFocused.DIMMRlated",
+                    "ppin_list": [],
+                    "event_time": "2023-12-10T14:10:02Z"
+                },
+                {
+                    "issue": "HW.DIMM.UncorrReadError",
+                    "diagnose": "DIMM Failure",
+                    "suggestion": "Replace DIMM.",
+                    "action": "HW.ReplaceDimm",
+                    "category": "PlatformFocused.DIMMRlated",
+                    "ppin_list": [],
+                    "event_time": "2023-12-10T14:10:02Z"
+                }
+            ]
+        },
+        {
+            "idx": 133,
+            "results": []
+        },
+        {
+            "idx": 88,
+            "results": [
+                {
+                    "issue": "HW.CPU.ChaPoison",
+                    "diagnose": "CHA Poison Error",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0X26CF184B550B9958"
+                    ],
+                    "event_time": "2024-01-18T02:51:18Z"
+                }
+            ]
+        },
+        {
+            "idx": 9,
+            "results": [
+                null,
+                {
+                    "issue": "HW.CPU.DcuParityUE",
+                    "diagnose": "Uncorrected DCU parity error",
+                    "suggestion": "Replace CPU.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [],
+                    "event_time": "2023-10-14T16:07:53.872948Z"
+                },
+                null,
+                {
+                    "issue": "HW.CPU.DcuParityUE",
+                    "diagnose": "Uncorrected DCU parity error",
+                    "suggestion": "Replace CPU.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [],
+                    "event_time": "2023-10-14T16:07:53.872948Z"
+                }
+            ]
+        },
+        {
+            "idx": 92,
+            "results": [
+                {
+                    "issue": "HW.CPU.IfuParityUE",
+                    "diagnose": "Uncorrected IFU parity error. Potential DPM Exposure.",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [],
+                    "event_time": "2024-01-24T14:23:44.660406Z"
+                },
+                {
+                    "issue": "HW.CPU.IfuParityUE",
+                    "diagnose": "Uncorrected IFU parity error. Potential DPM Exposure.",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [],
+                    "event_time": "2024-01-24T14:23:44.660406Z"
+                }
+            ]
+        },
+        {
+            "idx": 121,
+            "results": [
+                {
+                    "issue": "Unknown Error Detected",
+                    "diagnose": "Unknown Error Detected",
+                    "suggestion": "Keep Monitoring",
+                    "action": "Keep Monitoring",
+                    "category": "Others.Unknown",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 51,
+            "results": [
+                {
+                    "issue": "HW.CPU.MdfParityUE",
+                    "diagnose": "MLC Mesh Address Parity Error",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XC2D0737AD4602078"
+                    ],
+                    "event_time": "2023-12-12T22:30:23.115012Z"
+                }
+            ]
+        },
+        {
+            "idx": 4,
+            "results": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                {
+                    "issue": "HW.HANG.Core:Core inaccessible from PECI, suspected 3 Strike Error without TORTO",
+                    "diagnose": "Core Inaccessible From PECI",
+                    "suggestion": "Please update the microcode >= 0x2b000461(PLR1), ensure acd version >= BMC_EGS_2.0.2 and monitor.",
+                    "action": "Platform.UpdateMicrocode",
+                    "category": "PlatformFocused.OutdatedBKC",
+                    "ppin_list": [
+                        "C11EC7272FED832D"
+                    ],
+                    "event_time": "2023-10-09T13:01:35Z"
+                },
+                null,
+                null
+            ]
+        },
+        {
+            "idx": 100,
+            "results": [
+                {
+                    "issue": "HW.MCE.DCU:Uncorr_Load_Poison_0011_0134",
+                    "diagnose": "HW.MCE.DCU:Uncorr_Load_Poison_0011_0134",
+                    "suggestion": "It is potential a memory related issue. Can not locate the DIMM, please try to switch DIMM or contact Intel.",
+                    "action": "Platform.ReplaceDIMM",
+                    "category": "PlatformFocused.DIMMRlated",
+                    "ppin_list": [
+                        "0xc2835c8f947b51ac"
+                    ],
+                    "event_time": "2024-01-22T17:15:18Z"
+                },
+                null,
+                null
+            ]
+        },
+        {
+            "idx": 59,
+            "results": [
+                {
+                    "issue": "HW.CPU.MlcParityUE",
+                    "diagnose": "MLC Array Parity Failure.",
+                    "suggestion": "Replace CPU.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XCC195739773A6E8E"
+                    ],
+                    "event_time": "2023-12-29T07:00:51Z"
+                },
+                {
+                    "issue": "HW.CPU.MlcParityUE",
+                    "diagnose": "MLC Array Parity Failure.",
+                    "suggestion": "Replace CPU.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XCC195739773A6E8E"
+                    ],
+                    "event_time": "2023-12-29T07:00:51Z"
+                }
+            ]
+        },
+        {
+            "idx": 86,
+            "results": [
+                {
+                    "issue": "HW.CPU.ChaPoison",
+                    "diagnose": "CHA Poison Error",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0X44CFDC4A69BB0521"
+                    ],
+                    "event_time": "2024-02-22T18:55:01Z"
+                },
+                null
+            ]
+        },
+        {
+            "idx": 72,
+            "results": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                {
+                    "issue": "HW.STUCK_TRANSACTION.TOR:Tor_Timeout.PRd.Wdata_Wcmp.PCIE1",
+                    "diagnose": "A stuck transaction in CBo TOR. The Cbo Table of Request (TOR) timer has expired on a transaction. This means that the transaction did not complete in the allocated time. The Status Registers have fields for valid MISC and Valid Address. If these fields are valid MISC and ADDR bank register values should be decoded. The transaction address and type are encoded in those registers. The MISC register will log the: Core ID, Thread ID, Cacheability, Original Request and Opcode. The Original Request field should be used to note the request type. The ADDR register contains the target physical address cacheline aligned.",
+                    "suggestion": "It is potential a PCIe related issue. Please replace the PCIe at cpu0.pcie.pcie1.b1cd0f0",
+                    "action": "Platform.ReplacePCIe",
+                    "category": "PlatformFocused.PCIeRelated",
+                    "ppin_list": [
+                        "0XC170E12717178A28"
+                    ],
+                    "event_time": "2023-08-14T07:05:23Z"
+                },
+                {
+                    "issue": "HW.STUCK_TRANSACTION.TOR:Tor_Timeout.PRd.Wdata_Wcmp.PCIE1",
+                    "diagnose": "A stuck transaction in CBo TOR. The Cbo Table of Request (TOR) timer has expired on a transaction. This means that the transaction did not complete in the allocated time. The Status Registers have fields for valid MISC and Valid Address. If these fields are valid MISC and ADDR bank register values should be decoded. The transaction address and type are encoded in those registers. The MISC register will log the: Core ID, Thread ID, Cacheability, Original Request and Opcode. The Original Request field should be used to note the request type. The ADDR register contains the target physical address cacheline aligned.",
+                    "suggestion": "It is potential a PCIe related issue. Please replace the PCIe at cpu0.pcie.pcie1.b1cd0f0",
+                    "action": "Platform.ReplacePCIe",
+                    "category": "PlatformFocused.PCIeRelated",
+                    "ppin_list": [
+                        "0XC170E12717178A28"
+                    ],
+                    "event_time": "2023-08-14T07:05:23Z"
+                }
+            ]
+        },
+        {
+            "idx": 11,
+            "results": [
+                null,
+                null,
+                {
+                    "issue": "HW.HANG.Core:Core inaccessible from PECI, suspected 3 Strike Error without TORTO",
+                    "diagnose": "Core Inaccessible From PECI",
+                    "suggestion": "Please update the microcode >= 0x2b000461(PLR1), ensure acd version >= BMC_EGS_2.0.2 and monitor.",
+                    "action": "Platform.UpdateMicrocode",
+                    "category": "PlatformFocused.OutdatedBKC",
+                    "ppin_list": [
+                        "5301A727479B6A1C"
+                    ],
+                    "event_time": "2023-10-18T22:42:12Z"
+                }
+            ]
+        },
+        {
+            "idx": 145,
+            "results": [
+                null
+            ]
+        },
+        {
+            "idx": 146,
+            "results": []
+        },
+        {
+            "idx": 26,
+            "results": [
+                {
+                    "issue": "HW.CPU.DcuParityUE",
+                    "diagnose": "Uncorrected DCU parity error",
+                    "suggestion": "Replace CPU.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [],
+                    "event_time": "2023-11-23T03:12:49.162397Z"
+                },
+                {
+                    "issue": "HW.CPU.DcuParityUE",
+                    "diagnose": "Uncorrected DCU parity error",
+                    "suggestion": "Replace CPU.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [],
+                    "event_time": "2023-11-21T15:38:15.991909Z"
+                }
+            ]
+        },
+        {
+            "idx": 96,
+            "results": [
+                {
+                    "issue": "HW.CPU.IfuParityUE",
+                    "diagnose": "Uncorrected IFU parity error. Potential DPM Exposure.",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XE1A8039E6BF5698A"
+                    ],
+                    "event_time": "2024-01-02T03:55:06.949646Z"
+                },
+                null
+            ]
+        },
+        {
+            "idx": 27,
+            "results": [
+                {
+                    "issue": "HW.CPU.UpiUE",
+                    "diagnose": "Potential DPM exposure for UPI Link Error.",
+                    "suggestion": "Please contact Intel and goto FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0X8DD44D2EC34DF7D3"
+                    ],
+                    "event_time": "2023-11-23T02:18:30Z"
+                },
+                {
+                    "issue": "HW.CPU.UpiUE",
+                    "diagnose": "Potential DPM exposure for UPI Link Error.",
+                    "suggestion": "Please contact Intel and goto FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0X8DD44D2EC34DF7D3"
+                    ],
+                    "event_time": "2023-11-23T02:18:30Z"
+                }
+            ]
+        },
+        {
+            "idx": 116,
+            "results": [
+                {
+                    "issue": "HW.MCE:Shutdown_Error:_Sw_Triple_Fault_Shutdown",
+                    "diagnose": "Shutdown Error",
+                    "suggestion": "It's potential OS or software issue. Please debug OS or software issue.",
+                    "action": "Platform.DebugOS/SW",
+                    "category": "PlatformFocused.OS/SWRelated",
+                    "ppin_list": [
+                        "0XC2D086E00468AA3C"
+                    ],
+                    "event_time": "2024-01-23T06:43:25Z"
+                }
+            ]
+        },
+        {
+            "idx": 19,
+            "results": [
+                {
+                    "issue": "HW.CPU.UpiUE",
+                    "diagnose": "Potential DPM exposure for UPI Link Error.",
+                    "suggestion": "Please contact Intel and goto FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0X10152C3F73AAF7BF"
+                    ],
+                    "event_time": "2023-11-09T14:33:27Z"
+                },
+                {
+                    "issue": "HW.CPU.UpiUE",
+                    "diagnose": "Potential DPM exposure for UPI Link Error.",
+                    "suggestion": "Please contact Intel and goto FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0X10152C3F73AAF7BF"
+                    ],
+                    "event_time": "2023-11-09T14:33:27Z"
+                }
+            ]
+        },
+        {
+            "idx": 111,
+            "results": [
+                {
+                    "issue": "HW.ERR.MULTI.DCU_LOAD_POISON.MEM_ERR:Ddr/Ddrt_Link_Fail",
+                    "diagnose": "HW.ERR.MULTI.DCU_LOAD_POISON.MEM_ERR:Ddr/Ddrt_Link_Fail",
+                    "suggestion": "It is potential a memory related issue. Please replace the DIMM according to cpu0.mc2.ch0",
+                    "action": "Platform.ReplaceDIMM",
+                    "category": "PlatformFocused.DIMMRlated",
+                    "ppin_list": [
+                        "0xe243039eacf019d3"
+                    ],
+                    "event_time": "2024-01-19T11:37:58Z"
+                }
+            ]
+        },
+        {
+            "idx": 29,
+            "results": [
+                {
+                    "issue": "HW.MCE.CHA:Sf_State_Uncorr_Err",
+                    "diagnose": "UnCorrectable Snoop Filter STATE Error",
+                    "suggestion": "It's potential CPU defect. Please replace CPU1(0xd83e4839571038dd) and send to FACR.",
+                    "action": "CPU.FACR",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XD83E4839571038DD"
+                    ],
+                    "event_time": "2023-09-27T04:08:02Z"
+                },
+                null,
+                null
+            ]
+        },
+        {
+            "idx": 78,
+            "results": [
+                {
+                    "issue": "HW.CPU.MdfParityUE",
+                    "diagnose": "Modular Die Fabric Parity Error",
+                    "suggestion": "Replace CPU.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [],
+                    "event_time": "2024-02-21T03:23:55Z"
+                }
+            ]
+        },
+        {
+            "idx": 148,
+            "results": [
+                {
+                    "issue": "HW.CPU.UpiUE",
+                    "diagnose": "Potential DPM exposure for UPI Link Error.",
+                    "suggestion": "Please contact Intel and goto FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [],
+                    "event_time": "2024-02-28T12:21:57Z"
+                }
+            ]
+        },
+        {
+            "idx": 138,
+            "results": [
+                {
+                    "issue": "HW.STUCK_TRANSACTION.TOR:Tor_Timeout.PRd.Wdata_Wcmp.PCIE1",
+                    "diagnose": "A stuck transaction in CBo TOR. The Cbo Table of Request (TOR) timer has expired on a transaction. This means that the transaction did not complete in the allocated time. The Status Registers have fields for valid MISC and Valid Address. If these fields are valid MISC and ADDR bank register values should be decoded. The transaction address and type are encoded in those registers. The MISC register will log the: Core ID, Thread ID, Cacheability, Original Request and Opcode. The Original Request field should be used to note the request type. The ADDR register contains the target physical address cacheline aligned.",
+                    "suggestion": "It is potential a PCIe related issue. Please replace the PCIe at cpu0.pcie.pcie1.b1cd0f0",
+                    "action": "Platform.ReplacePCIe",
+                    "category": "PlatformFocused.PCIeRelated",
+                    "ppin_list": [
+                        "0XB6373440E1D7B811"
+                    ],
+                    "event_time": "2024-01-27T15:24:16Z"
+                },
+                null
+            ]
+        },
+        {
+            "idx": 105,
+            "results": [
+                {
+                    "issue": "HW.CPU.IfuParityUE",
+                    "diagnose": "Uncorrected IFU parity error. Potential DPM Exposure.",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XE1AA69F5E793C4A1"
+                    ],
+                    "event_time": "2024-02-06T22:27:18Z"
+                },
+                null,
+                {
+                    "issue": "HW.CPU.IfuParityUE",
+                    "diagnose": "Uncorrected IFU parity error. Potential DPM Exposure.",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XE1AA69F5E793C4A1"
+                    ],
+                    "event_time": "2024-02-06T22:27:18Z"
+                }
+            ]
+        },
+        {
+            "idx": 94,
+            "results": [
+                {
+                    "issue": "HW.CPU.0405ParityUE",
+                    "diagnose": "Parity Failure with mcacod 0x0405",
+                    "suggestion": "Further investigation.",
+                    "action": "HW.KeepMonitoring",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XE1CB376AC2AC747A"
+                    ],
+                    "event_time": "2024-01-12T04:00:45Z"
+                }
+            ]
+        },
+        {
+            "idx": 158,
+            "results": [
+                {
+                    "issue": "HW.DIMM",
+                    "diagnose": "A memory device has been disabled",
+                    "suggestion": "Error occurred at [CPU0-CH3-DIMM0, CPU0-CH2-DIMM0, CPU1-CH3-DIMM0, CPU1-CH2-DIMM0]. MRC MajorCode:0x46; MRC MinorCode:0x03. Please check the DIMM.",
+                    "action": "Platform.ReplaceDIMM",
+                    "category": "PlatformFocused.DIMMRelated",
+                    "ppin_list": null,
+                    "event_time": "2024-03-30T02:52:18.781282Z"
+                }
+            ]
+        },
+        {
+            "idx": 109,
+            "results": [
+                {
+                    "issue": "HW.CPU.MdfParityUE",
+                    "diagnose": "MLC Mesh Address Parity Error",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0X8DE2B8271B3BADB7"
+                    ],
+                    "event_time": "2024-01-04T10:15:44Z"
+                },
+                {
+                    "issue": "HW.CPU.MdfParityUE",
+                    "diagnose": "MLC Mesh Address Parity Error",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0X8DE2B8271B3BADB7"
+                    ],
+                    "event_time": "2024-01-04T10:15:44Z"
+                }
+            ]
+        },
+        {
+            "idx": 118,
+            "results": [
+                {
+                    "issue": "Unknown Error Detected",
+                    "diagnose": "Unknown Error Detected",
+                    "suggestion": "Keep Monitoring",
+                    "action": "Keep Monitoring",
+                    "category": "Others.Unknown",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 159,
+            "results": [
+                {
+                    "issue": "HW.MCE.PCU:Recoverable_Die_Thermal_Too_Hot",
+                    "diagnose": "During slow loop, it was detected that internal die thermals is too hot.",
+                    "suggestion": "Please try to reboot, switch CPU and MB, clean the Pins, do stress test and run SHC/IFS/SLSM. Keep monitor if normal; replace CPU and contact Intel if consistent.",
+                    "action": "Platform.RemediationFlow",
+                    "category": "PlatformFocused.TransientPlatformBehavior",
+                    "ppin_list": [
+                        "0X271FFA4A1942E406"
+                    ],
+                    "event_time": "2024-03-31T02:27:51Z"
+                }
+            ]
+        },
+        {
+            "idx": 137,
+            "results": [
+                {
+                    "issue": "HW.CPU.DcuParityUE",
+                    "diagnose": "Uncorrected DCU parity error",
+                    "suggestion": "Replace CPU.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XAC06C73F459A9761"
+                    ],
+                    "event_time": "2024-01-30T02:49:06Z"
+                }
+            ]
+        },
+        {
+            "idx": 58,
+            "results": [
+                null,
+                null,
+                {
+                    "issue": "HW.HANG.Core:Core inaccessible from PECI, suspected 3 Strike Error without TORTO.incomplete_dump.mca_zero_value",
+                    "diagnose": "Core Inaccessible From PECI",
+                    "suggestion": "Please update the microcode >= 0x2b000461(PLR1), ensure acd version >= BMC_EGS_2.0.2 and monitor.",
+                    "action": "Platform.UpdateMicrocode",
+                    "category": "PlatformFocused.OutdatedBKC",
+                    "ppin_list": [
+                        "0"
+                    ],
+                    "event_time": "2023-12-28T06:46:25Z"
+                }
+            ]
+        },
+        {
+            "idx": 142,
+            "results": [
+                {
+                    "issue": "HW.DIMM.UncorrReadError",
+                    "diagnose": "DIMM Failure",
+                    "suggestion": "Replace DIMM.",
+                    "action": "HW.ReplaceDimm",
+                    "category": "PlatformFocused.DIMMRlated",
+                    "ppin_list": [],
+                    "event_time": "2024-03-03T11:34:57Z"
+                }
+            ]
+        },
+        {
+            "idx": 114,
+            "results": [
+                null,
+                null,
+                {
+                    "issue": "HW.DIMM",
+                    "diagnose": "A memory device has been disabled",
+                    "suggestion": "Error occurred at [CPU1-CH5-DIMM1, CPU1-CH3-DIMM1, CPU1-CH1-DIMM1, CPU1-CH3-DIMM0, CPU1-CH1-DIMM0, CPU1-CH4-DIMM1, CPU1-CH7-DIMM0, CPU1-CH6-DIMM1, CPU1-CH2-DIMM1, CPU1-CH5-DIMM0, CPU1-CH7-DIMM1, CPU1-CH0-DIMM1]. MRC MinorCode:0x01; MRC MajorCode:0x43. Please check the DIMM.",
+                    "action": "Platform.ReplaceDIMM",
+                    "category": "PlatformFocused.DIMMRelated",
+                    "ppin_list": null,
+                    "event_time": "2024-01-25T12:05:50.837996Z"
+                }
+            ]
+        },
+        {
+            "idx": 97,
+            "results": [
+                {
+                    "issue": "HW.CPU.ChaParityUE",
+                    "diagnose": "CHA Parity Error",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0X2AAED14A05464ECE"
+                    ],
+                    "event_time": "2024-01-19T17:32:12.033133Z"
+                }
+            ]
+        },
+        {
+            "idx": 67,
+            "results": [
+                {
+                    "issue": "HW.MCE.CHA:Sad_Err_Non_Corrupting_Other",
+                    "diagnose": "Possible BIOS Configuration issue or Defect. This is caused by 1) Trying to flush MMIO to LLC space 2) Trying to Access CachealeMMIO while not in NEM 3) Trying to Flush a cacheline to VGA region 4) Trying to Access LT Space. Check for these error conditions in software.",
+                    "suggestion": "It's potential OS or software issue. Please debug OS or software issue.",
+                    "action": "Platform.DebugOS/SW",
+                    "category": "PlatformFocused.OS/SWRelated",
+                    "ppin_list": [
+                        "0XB124BC27A767160F"
+                    ],
+                    "event_time": "2024-01-07T14:33:58Z"
+                },
+                {
+                    "issue": "HW.MCE.CHA:Sad_Err_Non_Corrupting_Other",
+                    "diagnose": "Possible BIOS Configuration issue or Defect. This is caused by 1) Trying to flush MMIO to LLC space 2) Trying to Access CachealeMMIO while not in NEM 3) Trying to Flush a cacheline to VGA region 4) Trying to Access LT Space. Check for these error conditions in software.",
+                    "suggestion": "It's potential OS or software issue. Please debug OS or software issue.",
+                    "action": "Platform.DebugOS/SW",
+                    "category": "PlatformFocused.OS/SWRelated",
+                    "ppin_list": [
+                        "0XB124BC27A767160F"
+                    ],
+                    "event_time": "2024-01-07T14:33:58Z"
+                }
+            ]
+        },
+        {
+            "idx": 89,
+            "results": [
+                {
+                    "issue": "HW.MCE.IIO:Generic_I/O_Error_On_Bus[0Xf1]_Dev[0X00]_Fun[0X2]_From_Seg[0X00]",
+                    "diagnose": "Generic IO error",
+                    "suggestion": "It is potential a PCIe related issue. Please replace the PCIe at Bus[0Xf1]_Dev[0X00]_Fun[0X2]",
+                    "action": "Platform.ReplacePCIe",
+                    "category": "PlatformFocused.PCIeRelated",
+                    "ppin_list": [
+                        "0XC2BA0D5E28AE9565"
+                    ],
+                    "event_time": "2024-01-05T09:35:02Z"
+                }
+            ]
+        },
+        {
+            "idx": 113,
+            "results": [
+                {
+                    "issue": "HW.MCE:Shutdown_Error:_Sw_Triple_Fault_Shutdown",
+                    "diagnose": "Shutdown Error",
+                    "suggestion": "It's potential OS or software issue. Please debug OS or software issue.",
+                    "action": "Platform.DebugOS/SW",
+                    "category": "PlatformFocused.OS/SWRelated",
+                    "ppin_list": [
+                        "0XA153184B89FD498E"
+                    ],
+                    "event_time": "2024-01-04T12:54:53Z"
+                }
+            ]
+        },
+        {
+            "idx": 115,
+            "results": [
+                {
+                    "issue": "HW.CPU.ChaParityUE",
+                    "diagnose": "CHA Parity Error",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [],
+                    "event_time": "2024-02-22T12:55:08.237610Z"
+                },
+                null,
+                null
+            ]
+        },
+        {
+            "idx": 141,
+            "results": [
+                {
+                    "issue": "HW.DIMM",
+                    "diagnose": "Correctable ECC or other correctable memory error",
+                    "suggestion": "Error occurred at []. Please check the DIMM.",
+                    "action": "Platform.ReplaceDIMM",
+                    "category": "PlatformFocused.DIMMRelated",
+                    "ppin_list": null,
+                    "event_time": "2024-03-04T05:46:11.853507Z"
+                },
+                null,
+                null
+            ]
+        },
+        {
+            "idx": 140,
+            "results": [
+                {
+                    "issue": "HW.DIMM",
+                    "diagnose": "Correctable ECC or other correctable memory error",
+                    "suggestion": "Error occurred at []. Please check the DIMM.",
+                    "action": "Platform.ReplaceDIMM",
+                    "category": "PlatformFocused.DIMMRelated",
+                    "ppin_list": null,
+                    "event_time": "2024-03-04T05:46:11.853507Z"
+                },
+                null,
+                null
+            ]
+        },
+        {
+            "idx": 162,
+            "results": [
+                {
+                    "issue": "Unknown Error Detected",
+                    "diagnose": "Unknown Error Detected",
+                    "suggestion": "Keep Monitoring",
+                    "action": "Keep Monitoring",
+                    "category": "Others.Unknown",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 163,
+            "results": [
+                {
+                    "issue": "Unknown Error Detected",
+                    "diagnose": "Unknown Error Detected",
+                    "suggestion": "Keep Monitoring",
+                    "action": "Keep Monitoring",
+                    "category": "Others.Unknown",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 151,
+            "results": [
+                {
+                    "issue": "Unknown Error Detected",
+                    "diagnose": "Unknown Error Detected",
+                    "suggestion": "Keep Monitoring",
+                    "action": "Keep Monitoring",
+                    "category": "Others.Unknown",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 147,
+            "results": [
+                {
+                    "issue": "HW.CPU.UpiUE",
+                    "diagnose": "Potential DPM exposure for UPI Link Error.",
+                    "suggestion": "Please contact Intel and goto FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0X4BA7B5BEA07AD33A"
+                    ],
+                    "event_time": "2024-02-28T10:05:29Z"
+                },
+                null
+            ]
+        },
+        {
+            "idx": 91,
+            "results": [
+                {
+                    "issue": "HW.CPU.MlcParityUE",
+                    "diagnose": "MLC Array Parity Failure.",
+                    "suggestion": "Replace CPU.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XA7DE004B8BD9AA48"
+                    ],
+                    "event_time": "2024-02-20T09:29:24Z"
+                },
+                {
+                    "issue": "Unknown Error Detected",
+                    "diagnose": "Unknown Error Detected",
+                    "suggestion": "Keep Monitoring",
+                    "action": "Keep Monitoring",
+                    "category": "Others.Unknown",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                {
+                    "issue": "HW.CPU.MlcParityUE",
+                    "diagnose": "MLC Array Parity Failure.",
+                    "suggestion": "Replace CPU.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XA7DE004B8BD9AA48"
+                    ],
+                    "event_time": "2024-02-20T09:29:24Z"
+                },
+                {
+                    "issue": "Unknown Error Detected",
+                    "diagnose": "Unknown Error Detected",
+                    "suggestion": "Keep Monitoring",
+                    "action": "Keep Monitoring",
+                    "category": "Others.Unknown",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 117,
+            "results": [
+                {
+                    "issue": "HW.CPU.DcuParityUE",
+                    "diagnose": "Uncorrected DCU parity error",
+                    "suggestion": "Replace CPU.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [],
+                    "event_time": "2024-02-13T15:38:57.149064Z"
+                },
+                {
+                    "issue": "HW.CPU.DcuParityUE",
+                    "diagnose": "Uncorrected DCU parity error",
+                    "suggestion": "Replace CPU.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [],
+                    "event_time": "2024-02-13T15:38:57.149064Z"
+                }
+            ]
+        },
+        {
+            "idx": 120,
+            "results": [
+                {
+                    "issue": "HW.PCIe",
+                    "diagnose": "Suspect that PCIe error occured.",
+                    "suggestion": "Error occurred at [Bus183-Dev1-Func0], please check the PCIE Device.",
+                    "action": "Platform.ReplacePCIe",
+                    "category": "PlatformFocused.PCIeRelated",
+                    "ppin_list": null,
+                    "event_time": "2024-01-24T12:25:20.158759Z"
+                }
+            ]
+        },
+        {
+            "idx": 161,
+            "results": [
+                {
+                    "issue": "HW.MCE:Shutdown_Error:_Mce_When_Cr4.Mce_Is_Clear",
+                    "diagnose": "HW.MCE:Shutdown_Error:_Mce_When_Cr4.Mce_Is_Clear",
+                    "suggestion": "Please try to reboot, switch CPU and MB, clean the Pins, do stress test and run SHC/IFS/SLSM. Keep monitor if normal; replace CPU and contact Intel if consistent.",
+                    "action": "Others.RemediationFlow",
+                    "category": "Others.Unknown",
+                    "ppin_list": [
+                        "0x2c84e04ab36d899f"
+                    ],
+                    "event_time": "2024-04-01T03:40:15Z"
+                }
+            ]
+        },
+        {
+            "idx": 179,
+            "results": [
+                {
+                    "issue": "HW.DIMM",
+                    "diagnose": "A memory device has been disabled",
+                    "suggestion": "Error occurred at [CPU1-CH3-DIMM1, CPU1-CH5-DIMM1, CPU1-CH1-DIMM1, CPU1-CH4-DIMM1, CPU1-CH0-DIMM0, CPU1-CH6-DIMM1, CPU1-CH6-DIMM0, CPU1-CH2-DIMM1, CPU1-CH7-DIMM1, CPU1-CH0-DIMM1]. MRC MajorCode:0x29; MRC MinorCode:0x04. Please check the DIMM.",
+                    "action": "Platform.ReplaceDIMM",
+                    "category": "PlatformFocused.DIMMRelated",
+                    "ppin_list": null,
+                    "event_time": "2021-01-01T03:59:03.216579Z"
+                },
+                null
+            ]
+        },
+        {
+            "idx": 177,
+            "results": [
+                {
+                    "issue": "Unknown Error Detected",
+                    "diagnose": "Unknown Error Detected",
+                    "suggestion": "Keep Monitoring",
+                    "action": "Keep Monitoring",
+                    "category": "Others.Unknown",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 23,
+            "results": [
+                {
+                    "issue": "HW.STUCK_TRANSACTION.TOR:Tor_Timeout",
+                    "diagnose": "HW.STUCK_TRANSACTION.TOR:Tor_Timeout",
+                    "suggestion": "Please try to reboot, switch CPU and MB, clean the Pins, do stress test and run SHC/IFS/SLSM. Keep monitor if normal; replace CPU and contact Intel if consistent.",
+                    "action": "Others.RemediationFlow",
+                    "category": "Others.Unknown",
+                    "ppin_list": [
+                        "0xde236a39535a6a8c"
+                    ],
+                    "event_time": "2023-11-14T23:26:52Z"
+                },
+                {
+                    "issue": "HW.STUCK_TRANSACTION.TOR:Tor_Timeout",
+                    "diagnose": "HW.STUCK_TRANSACTION.TOR:Tor_Timeout",
+                    "suggestion": "Please try to reboot, switch CPU and MB, clean the Pins, do stress test and run SHC/IFS/SLSM. Keep monitor if normal; replace CPU and contact Intel if consistent.",
+                    "action": "Others.RemediationFlow",
+                    "category": "Others.Unknown",
+                    "ppin_list": [
+                        "0xde236a39535a6a8c"
+                    ],
+                    "event_time": "2023-11-14T23:26:52Z"
+                }
+            ]
+        },
+        {
+            "idx": 185,
+            "results": []
+        },
+        {
+            "idx": 186,
+            "results": []
+        },
+        {
+            "idx": 119,
+            "results": [
+                {
+                    "issue": "HW.STUCK_TRANSACTION.CORE_3STRIKE_ONLY",
+                    "diagnose": "3 Strike; Core waiting for completion. Verify system have latest microcode; No core uops retired within the watchdog timeout value. This is not necessarily indicative of a CPU issue, but it could be a MESH/FIVR Issue. The most common cause of this issue is a non-completion of a transaction by an external agent. The basic debug of this type of issue is to isolate this outstanding transaction. If there is no TORTIMEOUT on same CPU, File IPS",
+                    "suggestion": "It's potential CPU defect. Please replace CPU0(0x0000000000000000) and send to FACR.",
+                    "action": "CPU.FACR",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [],
+                    "event_time": "2024-01-20T06:22:41Z"
+                }
+            ]
+        },
+        {
+            "idx": 135,
+            "results": [
+                {
+                    "issue": "HW.CPU.MdfParityUE",
+                    "diagnose": "MLC Mesh Address Parity Error",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XC3931840BB7E1DB8"
+                    ],
+                    "event_time": "2024-01-19T22:48:37Z"
+                }
+            ]
+        },
+        {
+            "idx": 17,
+            "results": [
+                null,
+                {
+                    "issue": "HW.MCE.IIO:Generic_I/O_Error_On_Bus[0X00]_Dev[0X14]_Fun[0X4]_From_Seg[0X00]",
+                    "diagnose": "Generic IO error",
+                    "suggestion": "It is potential a PCIe related issue. Please replace the PCIe at Bus[0X00]_Dev[0X14]_Fun[0X4]",
+                    "action": "Platform.ReplacePCIe",
+                    "category": "PlatformFocused.PCIeRelated",
+                    "ppin_list": [
+                        "0XE17D4A39A1A27C1D"
+                    ],
+                    "event_time": "2024-03-22T04:08:06Z"
+                },
+                {
+                    "issue": "HW.MCE.IIO:Generic_I/O_Error_On_Bus[0X00]_Dev[0X14]_Fun[0X4]_From_Seg[0X00]",
+                    "diagnose": "Generic IO error",
+                    "suggestion": "It is potential a PCIe related issue. Please replace the PCIe at Bus[0X00]_Dev[0X14]_Fun[0X4]",
+                    "action": "Platform.ReplacePCIe",
+                    "category": "PlatformFocused.PCIeRelated",
+                    "ppin_list": [
+                        "0XDC576C39E9F3FADF"
+                    ],
+                    "event_time": "2023-11-08T09:06:17Z"
+                },
+                null
+            ]
+        },
+        {
+            "idx": 127,
+            "results": [
+                {
+                    "issue": "HW.PCIe",
+                    "diagnose": "Suspect that PCIe error occured.",
+                    "suggestion": "Error occurred at [Bus183-Dev1-Func0], please check the PCIE Device.",
+                    "action": "Platform.ReplacePCIe",
+                    "category": "PlatformFocused.PCIeRelated",
+                    "ppin_list": null,
+                    "event_time": "2024-01-24T12:25:20.158759Z"
+                }
+            ]
+        },
+        {
+            "idx": 191,
+            "results": []
+        },
+        {
+            "idx": 30,
+            "results": [
+                null,
+                {
+                    "issue": "HW.MCE.UPI:Unmerged_UPI0:Uc_Ll_Rx_Unsupported/Undefined_Packet",
+                    "diagnose": "UPI Link Layer detected an unsupported or undefined packet (e.g. message class, opcode, VN, viral). The flit is dropped. Flit header (HIB, MC, opcode, ACK, CRD, VNA, and VN) logged in MCi_STATUS. An error of this type that is not accompanied by CRC errors is a link layer issue (not physical layer). This implies potential programming or interface to another agent (node controller) that may incorrectly fill in fields of the packet. Control: KTIDBGERRSTDIS0 Debug: KTICRCERRCNT, KTIDBGERRST0",
+                    "suggestion": "Please try to reboot, switch CPU and MB, clean the Pins, do stress test and run SHC/IFS/SLSM. Keep monitor if normal; replace CPU and contact Intel if consistent.",
+                    "action": "Platform.RemediationFlow",
+                    "category": "PlatformFocused.TransientPlatformBehavior",
+                    "ppin_list": [
+                        "0XC348EE14D3F11E8F"
+                    ],
+                    "event_time": "2023-12-04T13:07:33Z"
+                },
+                {
+                    "issue": "HW.MCE.UPI:Unmerged_UPI0:Uc_Ll_Rx_Unsupported/Undefined_Packet",
+                    "diagnose": "UPI Link Layer detected an unsupported or undefined packet (e.g. message class, opcode, VN, viral). The flit is dropped. Flit header (HIB, MC, opcode, ACK, CRD, VNA, and VN) logged in MCi_STATUS. An error of this type that is not accompanied by CRC errors is a link layer issue (not physical layer). This implies potential programming or interface to another agent (node controller) that may incorrectly fill in fields of the packet. Control: KTIDBGERRSTDIS0 Debug: KTICRCERRCNT, KTIDBGERRST0",
+                    "suggestion": "Please try to reboot, switch CPU and MB, clean the Pins, do stress test and run SHC/IFS/SLSM. Keep monitor if normal; replace CPU and contact Intel if consistent.",
+                    "action": "Platform.RemediationFlow",
+                    "category": "PlatformFocused.TransientPlatformBehavior",
+                    "ppin_list": [
+                        "0X54A951BDE513E58B"
+                    ],
+                    "event_time": "2023-11-23T09:41:10Z"
+                }
+            ]
+        },
+        {
+            "idx": 193,
+            "results": []
+        },
+        {
+            "idx": 194,
+            "results": []
+        },
+        {
+            "idx": 190,
+            "results": [
+                {
+                    "issue": "Unknown Error Detected",
+                    "diagnose": "Unknown Error Detected",
+                    "suggestion": "Keep Monitoring",
+                    "action": "Keep Monitoring",
+                    "category": "Others.Unknown",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 136,
+            "results": [
+                {
+                    "issue": "HW.CPU.ChaPoison",
+                    "diagnose": "CHA Poison Error",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XC3A35F7A2072F451"
+                    ],
+                    "event_time": "2024-02-11T03:23:03Z"
+                }
+            ]
+        },
+        {
+            "idx": 90,
+            "results": [
+                null,
+                {
+                    "issue": "HW.STUCK_TRANSACTION.CORE_3STRIKE_ONLY",
+                    "diagnose": "3 Strike; Core waiting for completion. Verify system have latest microcode; No core uops retired within the watchdog timeout value. This is not necessarily indicative of a CPU issue, but it could be a MESH/FIVR Issue. The most common cause of this issue is a non-completion of a transaction by an external agent. The basic debug of this type of issue is to isolate this outstanding transaction. If there is no TORTIMEOUT on same CPU, File IPS",
+                    "suggestion": "It's potential CPU defect. Please replace CPU0(0x3bf0c54805c06e15) and send to FACR.",
+                    "action": "CPU.FACR",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0X3BF0C54805C06E15"
+                    ],
+                    "event_time": "2024-02-09T08:59:17Z"
+                },
+                {
+                    "issue": "HW.STUCK_TRANSACTION.CORE_3STRIKE_ONLY",
+                    "diagnose": "3 Strike; Core waiting for completion. Verify system have latest microcode; No core uops retired within the watchdog timeout value. This is not necessarily indicative of a CPU issue, but it could be a MESH/FIVR Issue. The most common cause of this issue is a non-completion of a transaction by an external agent. The basic debug of this type of issue is to isolate this outstanding transaction. If there is no TORTIMEOUT on same CPU, File IPS",
+                    "suggestion": "It's potential CPU defect. Please replace CPU0(0x3bf0c54805c06e15) and send to FACR.",
+                    "action": "CPU.FACR",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0X3BF0C54805C06E15"
+                    ],
+                    "event_time": "2024-02-09T08:59:17Z"
+                }
+            ]
+        },
+        {
+            "idx": 38,
+            "results": [
+                null,
+                {
+                    "issue": "HW.MCE.UPI:Unmerged_UPI0:Uc_Ll_Rx_Unsupported/Undefined_Packet",
+                    "diagnose": "UPI Link Layer detected an unsupported or undefined packet (e.g. message class, opcode, VN, viral). The flit is dropped. Flit header (HIB, MC, opcode, ACK, CRD, VNA, and VN) logged in MCi_STATUS. An error of this type that is not accompanied by CRC errors is a link layer issue (not physical layer). This implies potential programming or interface to another agent (node controller) that may incorrectly fill in fields of the packet. Control: KTIDBGERRSTDIS0 Debug: KTICRCERRCNT, KTIDBGERRST0",
+                    "suggestion": "Please try to reboot, switch CPU and MB, clean the Pins, do stress test and run SHC/IFS/SLSM. Keep monitor if normal; replace CPU and contact Intel if consistent.",
+                    "action": "Platform.RemediationFlow",
+                    "category": "PlatformFocused.TransientPlatformBehavior",
+                    "ppin_list": [
+                        "0XC348EE14D3F11E8F"
+                    ],
+                    "event_time": "2023-12-04T13:07:33Z"
+                },
+                {
+                    "issue": "HW.MCE.UPI:Unmerged_UPI0:Uc_Ll_Rx_Unsupported/Undefined_Packet",
+                    "diagnose": "UPI Link Layer detected an unsupported or undefined packet (e.g. message class, opcode, VN, viral). The flit is dropped. Flit header (HIB, MC, opcode, ACK, CRD, VNA, and VN) logged in MCi_STATUS. An error of this type that is not accompanied by CRC errors is a link layer issue (not physical layer). This implies potential programming or interface to another agent (node controller) that may incorrectly fill in fields of the packet. Control: KTIDBGERRSTDIS0 Debug: KTICRCERRCNT, KTIDBGERRST0",
+                    "suggestion": "Please try to reboot, switch CPU and MB, clean the Pins, do stress test and run SHC/IFS/SLSM. Keep monitor if normal; replace CPU and contact Intel if consistent.",
+                    "action": "Platform.RemediationFlow",
+                    "category": "PlatformFocused.TransientPlatformBehavior",
+                    "ppin_list": [
+                        "0X54A951BDE513E58B"
+                    ],
+                    "event_time": "2023-11-23T09:41:10Z"
+                }
+            ]
+        },
+        {
+            "idx": 197,
+            "results": [
+                {
+                    "issue": "HW.DIMM",
+                    "diagnose": "Uncorrectable ECC or other uncorrectable memory error",
+                    "suggestion": "Error occurred at [CPU1-CH4-DIMM0]. Please check the DIMM.",
+                    "action": "Platform.ReplaceDIMM",
+                    "category": "PlatformFocused.DIMMRelated",
+                    "ppin_list": null,
+                    "event_time": "2024-03-10T09:41:10.251598Z"
+                },
+                null
+            ]
+        },
+        {
+            "idx": 175,
+            "results": [
+                {
+                    "issue": "HW.CPU.IfuParityUE",
+                    "diagnose": "Uncorrected IFU parity error. Potential DPM Exposure.",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0X9C43F04A09368BD2"
+                    ],
+                    "event_time": "2024-03-19T03:40:03Z"
+                }
+            ]
+        },
+        {
+            "idx": 33,
+            "results": [
+                null,
+                {
+                    "issue": "HW.MCE.UPI:Unmerged_UPI0:Uc_Ll_Rx_Unsupported/Undefined_Packet",
+                    "diagnose": "UPI Link Layer detected an unsupported or undefined packet (e.g. message class, opcode, VN, viral). The flit is dropped. Flit header (HIB, MC, opcode, ACK, CRD, VNA, and VN) logged in MCi_STATUS. An error of this type that is not accompanied by CRC errors is a link layer issue (not physical layer). This implies potential programming or interface to another agent (node controller) that may incorrectly fill in fields of the packet. Control: KTIDBGERRSTDIS0 Debug: KTICRCERRCNT, KTIDBGERRST0",
+                    "suggestion": "Please try to reboot, switch CPU and MB, clean the Pins, do stress test and run SHC/IFS/SLSM. Keep monitor if normal; replace CPU and contact Intel if consistent.",
+                    "action": "Platform.RemediationFlow",
+                    "category": "PlatformFocused.TransientPlatformBehavior",
+                    "ppin_list": [
+                        "0XC348EE14D3F11E8F"
+                    ],
+                    "event_time": "2023-12-04T13:07:33Z"
+                },
+                {
+                    "issue": "HW.MCE.UPI:Unmerged_UPI0:Uc_Ll_Rx_Unsupported/Undefined_Packet",
+                    "diagnose": "UPI Link Layer detected an unsupported or undefined packet (e.g. message class, opcode, VN, viral). The flit is dropped. Flit header (HIB, MC, opcode, ACK, CRD, VNA, and VN) logged in MCi_STATUS. An error of this type that is not accompanied by CRC errors is a link layer issue (not physical layer). This implies potential programming or interface to another agent (node controller) that may incorrectly fill in fields of the packet. Control: KTIDBGERRSTDIS0 Debug: KTICRCERRCNT, KTIDBGERRST0",
+                    "suggestion": "Please try to reboot, switch CPU and MB, clean the Pins, do stress test and run SHC/IFS/SLSM. Keep monitor if normal; replace CPU and contact Intel if consistent.",
+                    "action": "Platform.RemediationFlow",
+                    "category": "PlatformFocused.TransientPlatformBehavior",
+                    "ppin_list": [
+                        "0X54A951BDE513E58B"
+                    ],
+                    "event_time": "2023-11-23T09:41:10Z"
+                }
+            ]
+        },
+        {
+            "idx": 156,
+            "results": [
+                {
+                    "issue": "HW.DIMM",
+                    "diagnose": "A memory device has been disabled",
+                    "suggestion": "Error occurred at [CPU0-CH4-DIMM0, CPU0-CH6-DIMM0, CPU0-CH5-DIMM0]. MRC MinorCode:0x13; MRC MinorCode:0x04; MRC MajorCode:0x31; MRC MajorCode:0x29. Please check the DIMM.",
+                    "action": "Platform.ReplaceDIMM",
+                    "category": "PlatformFocused.DIMMRelated",
+                    "ppin_list": null,
+                    "event_time": "2024-03-29T15:21:22.388074Z"
+                }
+            ]
+        },
+        {
+            "idx": 108,
+            "results": [
+                {
+                    "issue": "HW.MCE:Shutdown_Error:_Sw_Triple_Fault_Shutdown",
+                    "diagnose": "Shutdown Error",
+                    "suggestion": "It's potential OS or software issue. Please debug OS or software issue.",
+                    "action": "Platform.DebugOS/SW",
+                    "category": "PlatformFocused.OS/SWRelated",
+                    "ppin_list": [
+                        "0XE1B0F3700342A20E"
+                    ],
+                    "event_time": "2023-10-22T17:23:49Z"
+                },
+                {
+                    "issue": "HW.MCE:Shutdown_Error:_Sw_Triple_Fault_Shutdown",
+                    "diagnose": "Shutdown Error",
+                    "suggestion": "It's potential OS or software issue. Please debug OS or software issue.",
+                    "action": "Platform.DebugOS/SW",
+                    "category": "PlatformFocused.OS/SWRelated",
+                    "ppin_list": [
+                        "0XE1B0F3700342A20E"
+                    ],
+                    "event_time": "2023-10-22T17:23:49Z"
+                }
+            ]
+        },
+        {
+            "idx": 132,
+            "results": [
+                {
+                    "issue": "HW.STUCK_TRANSACTION.TOR:Tor_Timeout",
+                    "diagnose": "HW.STUCK_TRANSACTION.TOR:Tor_Timeout",
+                    "suggestion": "Please try to reboot, switch CPU and MB, clean the Pins, do stress test and run SHC/IFS/SLSM. Keep monitor if normal; replace CPU and contact Intel if consistent.",
+                    "action": "Others.RemediationFlow",
+                    "category": "Others.Unknown",
+                    "ppin_list": [
+                        "0x7be51a4b074b767e"
+                    ],
+                    "event_time": "2024-02-25T00:30:42Z"
+                }
+            ]
+        },
+        {
+            "idx": 66,
+            "results": [
+                {
+                    "issue": "HW.MCE.IIO:Generic_I/O_Error_On_Bus[0X88]_Dev[0X00]_Fun[0X2]_From_Seg[0X00]",
+                    "diagnose": "Generic IO error",
+                    "suggestion": "It is potential a PCIe related issue. Please replace the PCIe at Bus[0X88]_Dev[0X00]_Fun[0X2]",
+                    "action": "Platform.ReplacePCIe",
+                    "category": "PlatformFocused.PCIeRelated",
+                    "ppin_list": [
+                        "0XB124BBBE5325BC11"
+                    ],
+                    "event_time": "2023-12-05T07:56:21Z"
+                },
+                {
+                    "issue": "HW.MCE.IIO:Generic_I/O_Error_On_Bus[0X88]_Dev[0X00]_Fun[0X2]_From_Seg[0X00]",
+                    "diagnose": "Generic IO error",
+                    "suggestion": "It is potential a PCIe related issue. Please replace the PCIe at Bus[0X88]_Dev[0X00]_Fun[0X2]",
+                    "action": "Platform.ReplacePCIe",
+                    "category": "PlatformFocused.PCIeRelated",
+                    "ppin_list": [
+                        "0XB124BBBE5325BC11"
+                    ],
+                    "event_time": "2023-12-05T07:56:21Z"
+                },
+                {
+                    "issue": "HW.MCE.IIO:Generic_I/O_Error_On_Bus[0X88]_Dev[0X00]_Fun[0X2]_From_Seg[0X00]",
+                    "diagnose": "Generic IO error",
+                    "suggestion": "It is potential a PCIe related issue. Please replace the PCIe at Bus[0X88]_Dev[0X00]_Fun[0X2]",
+                    "action": "Platform.ReplacePCIe",
+                    "category": "PlatformFocused.PCIeRelated",
+                    "ppin_list": [
+                        "0XB124BBBE5325BC11"
+                    ],
+                    "event_time": "2023-12-05T07:56:21Z"
+                }
+            ]
+        },
+        {
+            "idx": 192,
+            "results": [
+                {
+                    "issue": "HW.CPU.ImcParityUE",
+                    "diagnose": "Memory Data Parity Error",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [],
+                    "event_time": "2021-01-01T00:36:35Z"
+                }
+            ]
+        },
+        {
+            "idx": 154,
+            "results": [
+                {
+                    "issue": "HW.DIMM.UncorrPatrolError",
+                    "diagnose": "DIMM Failure",
+                    "suggestion": "Replace DIMM.",
+                    "action": "HW.ReplaceDimm",
+                    "category": "PlatformFocused.DIMMRlated",
+                    "ppin_list": [],
+                    "event_time": "2024-03-08T01:47:44Z"
+                }
+            ]
+        },
+        {
+            "idx": 150,
+            "results": [
+                {
+                    "issue": "HW.CPU.MdfParityUE",
+                    "diagnose": "MLC Mesh Address Parity Error",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XB6781D3415583ADB"
+                    ],
+                    "event_time": "2024-01-30T05:49:33Z"
+                },
+                {
+                    "issue": "HW.CPU.MdfParityUE",
+                    "diagnose": "MLC Mesh Address Parity Error",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XB6781D3415583ADB"
+                    ],
+                    "event_time": "2024-01-30T05:49:33Z"
+                }
+            ]
+        },
+        {
+            "idx": 157,
+            "results": [
+                {
+                    "issue": "HW.HANG.Core:Core inaccessible from PECI, suspected 3 Strike Error without TORTO",
+                    "diagnose": "HW.HANG.Core:Core inaccessible from PECI, suspected 3 Strike Error without TORTO",
+                    "suggestion": "Please try to reboot, switch CPU and MB, clean the Pins, do stress test and run SHC/IFS/SLSM. Keep monitor if normal; replace CPU and contact Intel if consistent.",
+                    "action": "Others.RemediationFlow",
+                    "category": "Others.Unknown",
+                    "ppin_list": [
+                        "0x32bceb5055758d5d"
+                    ],
+                    "event_time": "2024-03-27T16:52:17Z"
+                }
+            ]
+        },
+        {
+            "idx": 103,
+            "results": [
+                {
+                    "issue": "HW.CPU.ChaPoison",
+                    "diagnose": "CHA Poison Error",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XAB7222409F27FA8C"
+                    ],
+                    "event_time": "2024-01-25T04:15:49Z"
+                },
+                {
+                    "issue": "HW.CPU.ChaPoison",
+                    "diagnose": "CHA Poison Error",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XAB7222409F27FA8C"
+                    ],
+                    "event_time": "2024-01-25T04:15:49Z"
+                }
+            ]
+        },
+        {
+            "idx": 123,
+            "results": [
+                {
+                    "issue": "HW.MCE.IIO:General_Ubox_Error",
+                    "diagnose": "Misaligned CFG Rd (Non-SMM)",
+                    "suggestion": "It is potential a PCIe related issue. Can not locate the PCIe, please check the AER registers or contact Intel.",
+                    "action": "Platform.ReplacePCIe",
+                    "category": "PlatformFocused.PCIeRelated",
+                    "ppin_list": [
+                        "0XC30F797AA4116031"
+                    ],
+                    "event_time": "2024-01-14T20:57:00Z"
+                },
+                {
+                    "issue": "HW.MCE.IIO:General_Ubox_Error",
+                    "diagnose": "Misaligned CFG Rd (Non-SMM)",
+                    "suggestion": "It is potential a PCIe related issue. Can not locate the PCIe, please check the AER registers or contact Intel.",
+                    "action": "Platform.ReplacePCIe",
+                    "category": "PlatformFocused.PCIeRelated",
+                    "ppin_list": [
+                        "0XC30F797AA4116031"
+                    ],
+                    "event_time": "2024-01-14T20:57:00Z"
+                }
+            ]
+        },
+        {
+            "idx": 130,
+            "results": [
+                null,
+                null,
+                {
+                    "issue": "HW.CPU.ChaPoison",
+                    "diagnose": "CHA Poison Error",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0X4639FB4AA93971A7"
+                    ],
+                    "event_time": "2024-02-14T10:28:38Z"
+                }
+            ]
+        },
+        {
+            "idx": 168,
+            "results": [
+                {
+                    "issue": "HW.MCE.IIO:Generic_I/O_Error_On_Bus[0X00]_Dev[0X14]_Fun[0X0]_From_Seg[0X00]",
+                    "diagnose": "Generic IO error",
+                    "suggestion": "It is potential a PCIe related issue. Please replace the PCIe at Bus[0X00]_Dev[0X14]_Fun[0X0]",
+                    "action": "Platform.ReplacePCIe",
+                    "category": "PlatformFocused.PCIeRelated",
+                    "ppin_list": [
+                        "0XCE99E84AC34894DA"
+                    ],
+                    "event_time": "2021-01-01T19:20:36Z"
+                }
+            ]
+        },
+        {
+            "idx": 174,
+            "results": [
+                null,
+                null,
+                {
+                    "issue": "Unknown Error Detected",
+                    "diagnose": "Unknown Error Detected",
+                    "suggestion": "Keep Monitoring",
+                    "action": "Keep Monitoring",
+                    "category": "Others.Unknown",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 178,
+            "results": [
+                {
+                    "issue": "HW.ERR.MULTI.DCU_LOAD_POISON.MEM_ERR:Ddr/Ddrt_Link_Fail",
+                    "diagnose": "HW.ERR.MULTI.DCU_LOAD_POISON.MEM_ERR:Ddr/Ddrt_Link_Fail",
+                    "suggestion": "It is potential a memory related issue. Please replace the DIMM according to cpu0.mc0.ch1",
+                    "action": "Platform.ReplaceDIMM",
+                    "category": "PlatformFocused.DIMMRlated",
+                    "ppin_list": [
+                        "0xc3bca3c6ec423793"
+                    ],
+                    "event_time": "2024-03-16T02:17:19Z"
+                }
+            ]
+        },
+        {
+            "idx": 144,
+            "results": [
+                null,
+                null,
+                {
+                    "issue": "HW.CPU.ChaParityUE",
+                    "diagnose": "CHA Parity Error",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XC2F1EB8C5EB70EEB"
+                    ],
+                    "event_time": "2024-03-05T12:35:29Z"
+                }
+            ]
+        },
+        {
+            "idx": 149,
+            "results": [
+                null,
+                {
+                    "issue": "Unknown Error Detected",
+                    "diagnose": "Unknown Error Detected",
+                    "suggestion": "Keep Monitoring",
+                    "action": "Keep Monitoring",
+                    "category": "Others.Unknown",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 129,
+            "results": [
+                {
+                    "issue": "HW.CPU.IfuParityUE",
+                    "diagnose": "Uncorrected IFU parity error. Potential DPM Exposure.",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0X52851E1E4B99D41D"
+                    ],
+                    "event_time": "2024-01-18T19:24:12Z"
+                }
+            ]
+        },
+        {
+            "idx": 171,
+            "results": [
+                null,
+                null,
+                null,
+                {
+                    "issue": "HW.DIMM.UncorrReadError",
+                    "diagnose": "DIMM Failure",
+                    "suggestion": "Replace DIMM.",
+                    "action": "HW.ReplaceDimm",
+                    "category": "PlatformFocused.DIMMRlated",
+                    "ppin_list": [],
+                    "event_time": "2024-03-27T01:30:49Z"
+                },
+                null,
+                null,
+                null
+            ]
+        },
+        {
+            "idx": 169,
+            "results": [
+                {
+                    "issue": "HW.MCE.IIO:Generic_I/O_Error_On_Bus[0X00]_Dev[0X14]_Fun[0X0]_From_Seg[0X00]",
+                    "diagnose": "Generic IO error",
+                    "suggestion": "It is potential a PCIe related issue. Please replace the PCIe at Bus[0X00]_Dev[0X14]_Fun[0X0]",
+                    "action": "Platform.ReplacePCIe",
+                    "category": "PlatformFocused.PCIeRelated",
+                    "ppin_list": [
+                        "0XCE99E84AC34894DA"
+                    ],
+                    "event_time": "2021-01-01T19:20:36Z"
+                }
+            ]
+        },
+        {
+            "idx": 187,
+            "results": [
+                {
+                    "issue": "HW.CPU.IfuParityUE",
+                    "diagnose": "Uncorrected IFU parity error. Potential DPM Exposure.",
+                    "suggestion": "Replace CPU and contact Intel.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XC28846CE587A0306"
+                    ],
+                    "event_time": "2024-03-04T21:26:21Z"
+                }
+            ]
+        },
+        {
+            "idx": 203,
+            "results": [
+                {
+                    "issue": "HW.CPU.DcuParityUE",
+                    "diagnose": "Uncorrected DCU parity error",
+                    "suggestion": "Replace CPU.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XDDC3FF4A57A73ECC"
+                    ],
+                    "event_time": "2024-03-24T13:02:40Z"
+                }
+            ]
+        },
+        {
+            "idx": 139,
+            "results": [
+                {
+                    "issue": "Unknown Error Detected",
+                    "diagnose": "Unknown Error Detected",
+                    "suggestion": "Keep Monitoring",
+                    "action": "Keep Monitoring",
+                    "category": "Others.Unknown",
+                    "ppin_list": null,
+                    "event_time": null
+                },
+                null,
+                {
+                    "issue": "Unknown Error Detected",
+                    "diagnose": "Unknown Error Detected",
+                    "suggestion": "Keep Monitoring",
+                    "action": "Keep Monitoring",
+                    "category": "Others.Unknown",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 200,
+            "results": [
+                {
+                    "issue": "Unknown Error Detected",
+                    "diagnose": "Unknown Error Detected",
+                    "suggestion": "Keep Monitoring",
+                    "action": "Keep Monitoring",
+                    "category": "Others.Unknown",
+                    "ppin_list": null,
+                    "event_time": null
+                }
+            ]
+        },
+        {
+            "idx": 20,
+            "results": [
+                {
+                    "issue": "HW.CPU.DcuParityUE",
+                    "diagnose": "Uncorrected DCU parity error",
+                    "suggestion": "Replace CPU.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XE1B5FA9A7EB69A43"
+                    ],
+                    "event_time": "2023-11-09T07:37:43Z"
+                },
+                {
+                    "issue": "HW.CPU.DcuParityUE",
+                    "diagnose": "Uncorrected DCU parity error",
+                    "suggestion": "Replace CPU.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XE1B5FA9A7EB69A43"
+                    ],
+                    "event_time": "2023-11-09T07:37:43Z"
+                }
+            ]
+        },
+        {
+            "idx": 155,
+            "results": [
+                {
+                    "issue": "HW.CPU.ChaPoison",
+                    "diagnose": "CHA Poison Error",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XDE4F6339CDB59F9B"
+                    ],
+                    "event_time": "2024-02-03T17:09:22Z"
+                }
+            ]
+        },
+        {
+            "idx": 176,
+            "results": [
+                {
+                    "issue": "HW.MCE.CHA:Coh_Tt_Error",
+                    "diagnose": "Coherent Tracker Error",
+                    "suggestion": "It's potential CPU defect. Please replace CPU1(0x8113f44a5f102359) and send to FACR.",
+                    "action": "CPU.FACR",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0X8113F44A5F102359"
+                    ],
+                    "event_time": "2024-03-15T07:36:40Z"
+                }
+            ]
+        },
+        {
+            "idx": 160,
+            "results": [
+                {
+                    "issue": "HW.CPU.MlcParityUE",
+                    "diagnose": "MLC Array Parity Failure.",
+                    "suggestion": "Replace CPU.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [],
+                    "event_time": "2024-03-30T03:12:52.499393Z"
+                }
+            ]
+        },
+        {
+            "idx": 195,
+            "results": [
+                {
+                    "issue": "HW.CPU.DcuParityUE",
+                    "diagnose": "Uncorrected DCU parity error",
+                    "suggestion": "Replace CPU.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [],
+                    "event_time": "2024-03-08T19:25:35.402278Z"
+                }
+            ]
+        },
+        {
+            "idx": 128,
+            "results": [
+                {
+                    "issue": "HW.CPU.IfuParityUE",
+                    "diagnose": "Uncorrected IFU parity error. Potential DPM Exposure.",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [],
+                    "event_time": "2024-01-08T14:13:16.567793Z"
+                },
+                {
+                    "issue": "HW.CPU.IfuParityUE",
+                    "diagnose": "Uncorrected IFU parity error. Potential DPM Exposure.",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [],
+                    "event_time": "2024-01-08T14:13:16.567793Z"
+                }
+            ]
+        },
+        {
+            "idx": 153,
+            "results": [
+                {
+                    "issue": "HW.CPU.ChaPoison",
+                    "diagnose": "CHA Poison Error",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XD403873913127F23"
+                    ],
+                    "event_time": "2024-02-22T03:39:08Z"
+                }
+            ]
+        },
+        {
+            "idx": 167,
+            "results": [
+                {
+                    "issue": "HW.MCE.IMC:Ddr/Ddrt_Link_Fail",
+                    "diagnose": "Possible DDR; isolate DIMM",
+                    "suggestion": "It is potential a memory related issue. Please replace the DIMM according to CPU0.iMC1Chn0",
+                    "action": "Platform.ReplaceDIMM",
+                    "category": "PlatformFocused.DIMMRlated",
+                    "ppin_list": [
+                        "0XB356B7279D8FC241"
+                    ],
+                    "event_time": "2024-03-29T08:42:39Z"
+                }
+            ]
+        },
+        {
+            "idx": 166,
+            "results": [
+                {
+                    "issue": "HW.MCE.IMC:Ddr/Ddrt_Link_Fail",
+                    "diagnose": "Possible DDR; isolate DIMM",
+                    "suggestion": "It is potential a memory related issue. Please replace the DIMM according to CPU0.iMC1Chn0",
+                    "action": "Platform.ReplaceDIMM",
+                    "category": "PlatformFocused.DIMMRlated",
+                    "ppin_list": [
+                        "0XB356B7279D8FC241"
+                    ],
+                    "event_time": "2024-03-29T08:42:39Z"
+                }
+            ]
+        },
+        {
+            "idx": 172,
+            "results": [
+                {
+                    "issue": "HW.CPU.MlcParityUE",
+                    "diagnose": "DCD MLC Parity Error",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0X80E2CB7FF8A52B19"
+                    ],
+                    "event_time": "2024-03-27T13:21:23Z"
+                }
+            ]
+        },
+        {
+            "idx": 188,
+            "results": [
+                {
+                    "issue": "HW.DIMM.UncorrPatrolError",
+                    "diagnose": "DIMM Failure",
+                    "suggestion": "Replace DIMM.",
+                    "action": "HW.ReplaceDimm",
+                    "category": "PlatformFocused.DIMMRlated",
+                    "ppin_list": [],
+                    "event_time": "2024-03-08T01:47:44Z"
+                }
+            ]
+        },
+        {
+            "idx": 75,
+            "results": [
+                null,
+                {
+                    "issue": "HW.MCE.CHA:Sad_Err_Non_Corrupting_Other",
+                    "diagnose": "Possible BIOS Configuration issue or Defect. This is caused by 1) Trying to flush MMIO to LLC space 2) Trying to Access CachealeMMIO while not in NEM 3) Trying to Flush a cacheline to VGA region 4) Trying to Access LT Space. Check for these error conditions in software.",
+                    "suggestion": "It's potential OS or software issue. Please debug OS or software issue.",
+                    "action": "Platform.DebugOS/SW",
+                    "category": "PlatformFocused.OS/SWRelated",
+                    "ppin_list": [
+                        "0XB158C5270DABEAD4"
+                    ],
+                    "event_time": "2023-11-14T07:28:48Z"
+                },
+                null,
+                {
+                    "issue": "HW.MCE:Shutdown_Error:_Sw_Triple_Fault_Shutdown",
+                    "diagnose": "Shutdown Error",
+                    "suggestion": "It's potential OS or software issue. Please debug OS or software issue.",
+                    "action": "Platform.DebugOS/SW",
+                    "category": "PlatformFocused.OS/SWRelated",
+                    "ppin_list": [
+                        "0XB158C5270DABEAD4"
+                    ],
+                    "event_time": "2023-12-06T09:59:11Z"
+                },
+                null,
+                null,
+                null,
+                null
+            ]
+        },
+        {
+            "idx": 36,
+            "results": [
+                null,
+                {
+                    "issue": "HW.STUCK_TRANSACTION.TOR:Tor_Timeout",
+                    "diagnose": "HW.STUCK_TRANSACTION.TOR:Tor_Timeout",
+                    "suggestion": "Please try to reboot, switch CPU and MB, clean the Pins, do stress test and run SHC/IFS/SLSM. Keep monitor if normal; replace CPU and contact Intel if consistent.",
+                    "action": "Others.RemediationFlow",
+                    "category": "Others.Unknown",
+                    "ppin_list": [
+                        "0x64626f275df36505"
+                    ],
+                    "event_time": "2023-10-31T16:44:39Z"
+                },
+                {
+                    "issue": "HW.STUCK_TRANSACTION.TOR:Tor_Timeout",
+                    "diagnose": "HW.STUCK_TRANSACTION.TOR:Tor_Timeout",
+                    "suggestion": "Please try to reboot, switch CPU and MB, clean the Pins, do stress test and run SHC/IFS/SLSM. Keep monitor if normal; replace CPU and contact Intel if consistent.",
+                    "action": "Others.RemediationFlow",
+                    "category": "Others.Unknown",
+                    "ppin_list": [
+                        "0x64626f275df36505"
+                    ],
+                    "event_time": "2023-10-31T16:44:39Z"
+                },
+                null
+            ]
+        },
+        {
+            "idx": 189,
+            "results": [
+                {
+                    "issue": "HW.DIMM.UncorrPatrolError",
+                    "diagnose": "DIMM Failure",
+                    "suggestion": "Replace DIMM.",
+                    "action": "HW.ReplaceDimm",
+                    "category": "PlatformFocused.DIMMRlated",
+                    "ppin_list": [],
+                    "event_time": "2024-03-08T01:47:44Z"
+                }
+            ]
+        },
+        {
+            "idx": 198,
+            "results": [
+                {
+                    "issue": "HW.CPU.MlcParityUE",
+                    "diagnose": "DCD MLC Parity Error",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XBD98354081DE2373"
+                    ],
+                    "event_time": "2024-03-14T23:55:38Z"
+                }
+            ]
+        },
+        {
+            "idx": 196,
+            "results": [
+                {
+                    "issue": "HW.PCIe",
+                    "diagnose": "Suspect that PCIe error occured.",
+                    "suggestion": "Error occurred at [Bus183-Dev1-Func0], please check the PCIE Device.",
+                    "action": "Platform.ReplacePCIe",
+                    "category": "PlatformFocused.PCIeRelated",
+                    "ppin_list": null,
+                    "event_time": "2024-03-09T17:38:14.127301Z"
+                }
+            ]
+        },
+        {
+            "idx": 181,
+            "results": [
+                {
+                    "issue": "HW.DIMM.UncorrReadError",
+                    "diagnose": "DIMM Failure",
+                    "suggestion": "Replace DIMM.",
+                    "action": "HW.ReplaceDimm",
+                    "category": "PlatformFocused.DIMMRlated",
+                    "ppin_list": [],
+                    "event_time": "2024-03-17T23:21:57Z"
+                }
+            ]
+        },
+        {
+            "idx": 199,
+            "results": [
+                {
+                    "issue": "HW.CPU.ChaPoison",
+                    "diagnose": "CHA Poison Error",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XC39768D467CD5922"
+                    ],
+                    "event_time": "2024-03-18T10:49:19Z"
+                }
+            ]
+        },
+        {
+            "idx": 152,
+            "results": [
+                {
+                    "issue": "HW.CPU.MlcParityUE",
+                    "diagnose": "MLC Array Parity Failure.",
+                    "suggestion": "Replace CPU.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XE1C4AE5DCAE25527"
+                    ],
+                    "event_time": "2024-02-29T07:26:41Z"
+                }
+            ]
+        },
+        {
+            "idx": 182,
+            "results": [
+                {
+                    "issue": "HW.CPU.ChaPoison",
+                    "diagnose": "CHA Poison Error",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XDE4F6339CDB59F9B"
+                    ],
+                    "event_time": "2024-02-03T17:09:22Z"
+                }
+            ]
+        },
+        {
+            "idx": 143,
+            "results": [
+                null,
+                {
+                    "issue": "HW.CPU.UpiCE",
+                    "diagnose": "Potential DPM exposure for UPI Link Error.",
+                    "suggestion": "Please contact Intel.",
+                    "action": "HW.KeepMonitoring",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0X5E1E0F3F67A2AD33"
+                    ],
+                    "event_time": "2024-02-12T23:51:14Z"
+                },
+                {
+                    "issue": "HW.CPU.UpiCE",
+                    "diagnose": "Potential DPM exposure for UPI Link Error.",
+                    "suggestion": "Please contact Intel.",
+                    "action": "HW.KeepMonitoring",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0X5E1E0F3F67A2AD33"
+                    ],
+                    "event_time": "2024-02-12T23:51:14Z"
+                }
+            ]
+        },
+        {
+            "idx": 134,
+            "results": [
+                {
+                    "issue": "HW.CPU.DcuParityUE",
+                    "diagnose": "Uncorrected DCU parity error",
+                    "suggestion": "Replace CPU.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [],
+                    "event_time": "2024-01-21T07:52:54.640316Z"
+                },
+                {
+                    "issue": "HW.CPU.DcuParityUE",
+                    "diagnose": "Uncorrected DCU parity error",
+                    "suggestion": "Replace CPU.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [],
+                    "event_time": "2024-01-21T07:52:54.640316Z"
+                },
+                {
+                    "issue": "HW.CPU.DcuParityUE",
+                    "diagnose": "Uncorrected DCU parity error",
+                    "suggestion": "Replace CPU.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [],
+                    "event_time": "2024-01-21T07:52:54.640316Z"
+                }
+            ]
+        },
+        {
+            "idx": 106,
+            "results": [
+                {
+                    "issue": "HW.CPU.ChaParityUE",
+                    "diagnose": "CHA Parity Error",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XC2B975FA35B98269"
+                    ],
+                    "event_time": "2023-11-11T20:38:05Z"
+                },
+                {
+                    "issue": "HW.CPU.UpiParityUE",
+                    "diagnose": "Potential DPM exposure for Mindelay UPI Link Error.",
+                    "suggestion": "Please contact Intel and goto FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XC2B975FA35B98269"
+                    ],
+                    "event_time": "2024-01-09T12:50:08Z"
+                }
+            ]
+        },
+        {
+            "idx": 184,
+            "results": [
+                {
+                    "issue": "HW.HANG.Core:Core inaccessible from PECI, suspected 3 Strike Error without TORTO.incomplete_dump.mca_zero_value",
+                    "diagnose": "HW.HANG.Core:Core inaccessible from PECI, suspected 3 Strike Error without TORTO.incomplete_dump.mca_zero_value",
+                    "suggestion": "Please try to reboot, switch CPU and MB, clean the Pins, do stress test and run SHC/IFS/SLSM. Keep monitor if normal; replace CPU and contact Intel if consistent.",
+                    "action": "Others.RemediationFlow",
+                    "category": "Others.Unknown",
+                    "ppin_list": [
+                        "0x0000000000000000"
+                    ],
+                    "event_time": "2024-03-18T06:59:38Z"
+                }
+            ]
+        },
+        {
+            "idx": 122,
+            "results": [
+                {
+                    "issue": "HW.CPU.UpiUE",
+                    "diagnose": "Potential DPM exposure for UPI Link Error.",
+                    "suggestion": "Please contact Intel and goto FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XC2C270D11C7BBE03"
+                    ],
+                    "event_time": "2024-01-02T05:40:51Z"
+                },
+                {
+                    "issue": "HW.CPU.UpiUE",
+                    "diagnose": "Potential DPM exposure for UPI Link Error.",
+                    "suggestion": "Please contact Intel and goto FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XC2C270D11C7BBE03"
+                    ],
+                    "event_time": "2024-01-02T05:40:51Z"
+                }
+            ]
+        },
+        {
+            "idx": 180,
+            "results": [
+                {
+                    "issue": "HW.DIMM.UncorrReadError",
+                    "diagnose": "DIMM Failure",
+                    "suggestion": "Replace DIMM.",
+                    "action": "HW.ReplaceDimm",
+                    "category": "PlatformFocused.DIMMRlated",
+                    "ppin_list": [],
+                    "event_time": "2024-03-17T23:21:57Z"
+                }
+            ]
+        },
+        {
+            "idx": 99,
+            "results": [
+                null,
+                {
+                    "issue": "HW.MCE:Shutdown_Error:_Sw_Triple_Fault_Shutdown",
+                    "diagnose": "Shutdown Error",
+                    "suggestion": "It's potential OS or software issue. Please debug OS or software issue.",
+                    "action": "Platform.DebugOS/SW",
+                    "category": "PlatformFocused.OS/SWRelated",
+                    "ppin_list": [
+                        "0X3B8382390B575FC3"
+                    ],
+                    "event_time": "2024-02-03T14:36:11Z"
+                },
+                null,
+                {
+                    "issue": "HW.MCE:Shutdown_Error:_Sw_Triple_Fault_Shutdown",
+                    "diagnose": "Shutdown Error",
+                    "suggestion": "It's potential OS or software issue. Please debug OS or software issue.",
+                    "action": "Platform.DebugOS/SW",
+                    "category": "PlatformFocused.OS/SWRelated",
+                    "ppin_list": [
+                        "0X3B8382390B575FC3"
+                    ],
+                    "event_time": "2024-02-03T14:36:11Z"
+                },
+                {
+                    "issue": "HW.MCE:Shutdown_Error:_Sw_Triple_Fault_Shutdown",
+                    "diagnose": "Shutdown Error",
+                    "suggestion": "It's potential OS or software issue. Please debug OS or software issue.",
+                    "action": "Platform.DebugOS/SW",
+                    "category": "PlatformFocused.OS/SWRelated",
+                    "ppin_list": [
+                        "0X3B8382390B575FC3"
+                    ],
+                    "event_time": "2024-02-03T14:36:11Z"
+                }
+            ]
+        },
+        {
+            "idx": 126,
+            "results": [
+                {
+                    "issue": "HW.CPU.MdfParityUE",
+                    "diagnose": "MLC Mesh Address Parity Error",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XC8A2EC4A77526493"
+                    ],
+                    "event_time": "2024-01-06T14:22:47Z"
+                },
+                {
+                    "issue": "HW.CPU.MdfParityUE",
+                    "diagnose": "MLC Mesh Address Parity Error",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XC8A2EC4A77526493"
+                    ],
+                    "event_time": "2024-01-06T14:22:47Z"
+                }
+            ]
+        },
+        {
+            "idx": 124,
+            "results": [
+                {
+                    "issue": "HW.STUCK_TRANSACTION.TOR:Tor_Timeout",
+                    "diagnose": "HW.STUCK_TRANSACTION.TOR:Tor_Timeout",
+                    "suggestion": "Please try to reboot, switch CPU and MB, clean the Pins, do stress test and run SHC/IFS/SLSM. Keep monitor if normal; replace CPU and contact Intel if consistent.",
+                    "action": "Others.RemediationFlow",
+                    "category": "Others.Unknown",
+                    "ppin_list": [
+                        "0x86960d4ec168e45f"
+                    ],
+                    "event_time": "2024-02-06T12:13:00Z"
+                },
+                {
+                    "issue": "HW.STUCK_TRANSACTION.TOR:Tor_Timeout",
+                    "diagnose": "HW.STUCK_TRANSACTION.TOR:Tor_Timeout",
+                    "suggestion": "Please try to reboot, switch CPU and MB, clean the Pins, do stress test and run SHC/IFS/SLSM. Keep monitor if normal; replace CPU and contact Intel if consistent.",
+                    "action": "Others.RemediationFlow",
+                    "category": "Others.Unknown",
+                    "ppin_list": [
+                        "0x86960d4ec168e45f"
+                    ],
+                    "event_time": "2024-02-06T12:13:00Z"
+                }
+            ]
+        },
+        {
+            "idx": 202,
+            "results": [
+                {
+                    "issue": "HW.CPU.DcuParityUE",
+                    "diagnose": "Uncorrected DCU parity error",
+                    "suggestion": "Replace CPU.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XDDB18439AF169834"
+                    ],
+                    "event_time": "2024-03-20T17:24:47.432326Z"
+                }
+            ]
+        },
+        {
+            "idx": 173,
+            "results": [
+                {
+                    "issue": "HW.CPU.IfuParityUE",
+                    "diagnose": "Uncorrected IFU parity error. Potential DPM Exposure.",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XC3B51AFFF0A9073C"
+                    ],
+                    "event_time": "2024-03-19T00:17:01Z"
+                },
+                {
+                    "issue": "HW.CPU.IfuParityUE",
+                    "diagnose": "Uncorrected IFU parity error. Potential DPM Exposure.",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XC3B51AFFF0A9073C"
+                    ],
+                    "event_time": "2024-03-19T00:17:01Z"
+                }
+            ]
+        },
+        {
+            "idx": 170,
+            "results": [
+                {
+                    "issue": "HW.STUCK_TRANSACTION.TOR:Tor_Timeout.incomplete_dump.mca_zero_value",
+                    "diagnose": "HW.STUCK_TRANSACTION.TOR:Tor_Timeout.incomplete_dump.mca_zero_value",
+                    "suggestion": "Please try to reboot, switch CPU and MB, clean the Pins, do stress test and run SHC/IFS/SLSM. Keep monitor if normal; replace CPU and contact Intel if consistent.",
+                    "action": "Others.RemediationFlow",
+                    "category": "Others.Unknown",
+                    "ppin_list": [
+                        "0x0000000000000000"
+                    ],
+                    "event_time": "2024-03-18T18:20:20Z"
+                },
+                {
+                    "issue": "HW.STUCK_TRANSACTION.TOR:Tor_Timeout.incomplete_dump.mca_zero_value",
+                    "diagnose": "HW.STUCK_TRANSACTION.TOR:Tor_Timeout.incomplete_dump.mca_zero_value",
+                    "suggestion": "Please try to reboot, switch CPU and MB, clean the Pins, do stress test and run SHC/IFS/SLSM. Keep monitor if normal; replace CPU and contact Intel if consistent.",
+                    "action": "Others.RemediationFlow",
+                    "category": "Others.Unknown",
+                    "ppin_list": [
+                        "0x0000000000000000"
+                    ],
+                    "event_time": "2024-03-18T04:43:04Z"
+                }
+            ]
+        },
+        {
+            "idx": 201,
+            "results": [
+                {
+                    "issue": "HW.CPU.UpiUE",
+                    "diagnose": "Potential DPM exposure for UPI Link Error.",
+                    "suggestion": "Please contact Intel and goto FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0X6512782E7F07B118"
+                    ],
+                    "event_time": "2024-03-19T14:37:46Z"
+                }
+            ]
+        },
+        {
+            "idx": 112,
+            "results": [
+                {
+                    "issue": "HW.CPU.0405ParityUE",
+                    "diagnose": "Parity Failure with mcacod 0x0405",
+                    "suggestion": "Further investigation.",
+                    "action": "HW.KeepMonitoring",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XC3A696A20DEFFA67"
+                    ],
+                    "event_time": "2024-01-01T14:56:17Z"
+                },
+                null,
+                {
+                    "issue": "HW.CPU.0405ParityUE",
+                    "diagnose": "Parity Failure with mcacod 0x0405",
+                    "suggestion": "Further investigation.",
+                    "action": "HW.KeepMonitoring",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XC3A696A20DEFFA67"
+                    ],
+                    "event_time": "2024-01-01T14:56:17Z"
+                }
+            ]
+        },
+        {
+            "idx": 164,
+            "results": [
+                null,
+                {
+                    "issue": "HW.MCE.IIO:Generic_I/O_Error_On_Bus[0X00]_Dev[0X14]_Fun[0X4]_From_Seg[0X00]",
+                    "diagnose": "Generic IO error",
+                    "suggestion": "It is potential a PCIe related issue. Please replace the PCIe at Bus[0X00]_Dev[0X14]_Fun[0X4]",
+                    "action": "Platform.ReplacePCIe",
+                    "category": "PlatformFocused.PCIeRelated",
+                    "ppin_list": [
+                        "0XE17D4A39A1A27C1D"
+                    ],
+                    "event_time": "2024-03-22T04:08:06Z"
+                },
+                {
+                    "issue": "HW.MCE.IIO:Generic_I/O_Error_On_Bus[0X00]_Dev[0X14]_Fun[0X4]_From_Seg[0X00]",
+                    "diagnose": "Generic IO error",
+                    "suggestion": "It is potential a PCIe related issue. Please replace the PCIe at Bus[0X00]_Dev[0X14]_Fun[0X4]",
+                    "action": "Platform.ReplacePCIe",
+                    "category": "PlatformFocused.PCIeRelated",
+                    "ppin_list": [
+                        "0XDC576C39E9F3FADF"
+                    ],
+                    "event_time": "2023-11-08T09:06:17Z"
+                },
+                null
+            ]
+        },
+        {
+            "idx": 165,
+            "results": [
+                null,
+                {
+                    "issue": "HW.MCE.IIO:Generic_I/O_Error_On_Bus[0X00]_Dev[0X14]_Fun[0X4]_From_Seg[0X00]",
+                    "diagnose": "Generic IO error",
+                    "suggestion": "It is potential a PCIe related issue. Please replace the PCIe at Bus[0X00]_Dev[0X14]_Fun[0X4]",
+                    "action": "Platform.ReplacePCIe",
+                    "category": "PlatformFocused.PCIeRelated",
+                    "ppin_list": [
+                        "0XE17D4A39A1A27C1D"
+                    ],
+                    "event_time": "2024-03-22T04:08:06Z"
+                },
+                {
+                    "issue": "HW.MCE.IIO:Generic_I/O_Error_On_Bus[0X00]_Dev[0X14]_Fun[0X4]_From_Seg[0X00]",
+                    "diagnose": "Generic IO error",
+                    "suggestion": "It is potential a PCIe related issue. Please replace the PCIe at Bus[0X00]_Dev[0X14]_Fun[0X4]",
+                    "action": "Platform.ReplacePCIe",
+                    "category": "PlatformFocused.PCIeRelated",
+                    "ppin_list": [
+                        "0XDC576C39E9F3FADF"
+                    ],
+                    "event_time": "2023-11-08T09:06:17Z"
+                },
+                null
+            ]
+        },
+        {
+            "idx": 0,
+            "results": [
+                {
+                    "issue": "HW.CPU.ChaParityUE",
+                    "diagnose": "CHA Parity Error",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XCBF06D39CFD15A14"
+                    ],
+                    "event_time": "2023-09-24T15:59:14Z"
+                },
+                {
+                    "issue": "HW.CPU.ChaParityUE",
+                    "diagnose": "CHA Parity Error",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XCBF06D39CFD15A14"
+                    ],
+                    "event_time": "2023-09-24T15:59:14Z"
+                },
+                {
+                    "issue": "HW.CPU.ChaParityUE",
+                    "diagnose": "CHA Parity Error",
+                    "suggestion": "Replace CPU. Contact Intel for FACR.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XCBF06D39CFD15A14"
+                    ],
+                    "event_time": "2023-09-20T01:03:15Z"
+                }
+            ]
+        },
+        {
+            "idx": 183,
+            "results": [
+                {
+                    "issue": "HW.CPU.DcuParityUE",
+                    "diagnose": "Uncorrected DCU parity error",
+                    "suggestion": "Replace CPU.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [
+                        "0XB969EC331D58C0CE"
+                    ],
+                    "event_time": "2023-10-31T10:40:22Z"
+                },
+                {
+                    "issue": "HW.CPU.DcuParityUE",
+                    "diagnose": "Uncorrected DCU parity error",
+                    "suggestion": "Replace CPU.",
+                    "action": "HW.ReplaceCpu",
+                    "category": "CPUFocused.PotentialDefect",
+                    "ppin_list": [],
+                    "event_time": "2024-02-01T06:45:44.033913Z"
+                }
+            ]
+        }
+    ]
+}

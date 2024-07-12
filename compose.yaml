@@ -1,0 +1,22 @@
+version: "3"
+
+services:
+  streamlit:
+    build:
+      dockerfile_inline: |
+        FROM python:3.11
+        WORKDIR /
+        COPY requirements.txt requirements.txt
+        RUN pip install -r requirements.txt --proxy=child-prc.intel.com:913
+        COPY logtool logtool
+    expose:
+      - ${STREAMLIT_PORT}
+    ports:
+      - ${STREAMLIT_PORT}:${STREAMLIT_PORT}
+    command: ["python3", "-m", "streamlit", "run", "logtool/frontend/Home.py", "--server.maxUploadSize=20000", "--server.address=0.0.0.0", "--server.port=${STREAMLIT_PORT}", "--browser.gatherUsageStats=false"]
+    healthcheck:
+      test: ["CMD", "curl", "localhost:${STREAMLIT_PORT}"]
+      interval: 5s
+      timeout: 1s
+      retries: 5
+      start_period: 5s

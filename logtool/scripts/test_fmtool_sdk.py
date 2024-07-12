@@ -1,0 +1,95 @@
+import sys
+import re
+import pathlib
+
+import pytest
+
+from ..storage import database, crud
+
+if True:
+    sdk_path = pathlib.Path("/home/shizy/fmtool.sdk")
+    sys.path.append(str(sdk_path))
+
+from fmtool_sdk_dev.decoder.mce import parse_acd
+
+session = database.SessionLocal()
+sha256s = crud.get_sha256s(session)[:]
+
+failure_list = """
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[35859194b08e2833f311a83bb6957bc5e4f24bc40975a65947c472499f68034f]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[093d00ccdec21af1c3b08a40c2e79a2814256849b6b6001cb2679d42c71befbf]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[257254bf0fa3da60a0e63e312988bf00f6df19dc5c02e5320d3503bf5c495466]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[2f77d43a301328fa26f2670b02b0e4e9f8a41c347d97d9f24267181761bc4e2d]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[03671ebb71cb8a7d87cd6fc824c53749b12cee98a753c91a2933f50472cf784b]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[026481b84db2f1fbdcaa9de38f81b480e163db3e8adc7fd20b332b19ed00cc33]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[342a476e02e2ecd0e1cb199dc1bae815fa3838870c873d7a5e1407ce013cf19b]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[0de667c76176f0beafe051911f5aa9b6875f04dca02c9ca5e571ac31e54c9c34]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[333538fc613cf27e414534d3bef43203e1bd6bd3ba0a2927f048e4e4f0058e5d]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[164dd1e5c39b468a4e40ce464ae9669caf7af2d49e82fa36c4bba996e1db3d64]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[2a40b393b8bc9f3db22fec73c674b6a288bdebc54a4dd203db59811461a144f2]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[366b5a0ef8aa69ac3e247d2566b5b785f8cb50de9c7f23c218e292415417569f]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[250fe55a74b1725a909271846d71999fa6ad849d8092e0b53306e7d2b0aec638]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[568cd3639849d802bdf314332c430eb549ec99ac61b11af21fa60706762c9bc0]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[4fecfd4f17237d8ef1f476050f9d752f8810af6a940d13569be8d8b62f23beb1]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[3db8c2be49539640eb63e7c48e7dc2d30dfd4940e62a1155aec8611378d7f93b]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[73c4fd4a45170a93fe8fba4180d2b1d95bb9d246bcba96de2675f139ed7cef63]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[7ddf5cf0c232e47d5db2a684b24e201bf82e1f0627e68fdafc17831d7e65e64a]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[3f870f40069990f553d3330b9352f9202fdb74500dcbefff88de7e3f8bb8a400]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[4f32214086adc90cf5b7b0b6209a3123d3939c8948873871d6ef447c3dc49fd7]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[441ac8c642269e49e3f99e899ad79881b509849fc1b0f7ca950b1861e6c159cd]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[65dcf578a81c8097dfaa3208a10f4900da3872fd026e7e20c771bf470a5001dc]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[3e323d13dc8ae521792b1fb96ee731604bfd854ecbfdb693e4c60de9764beced]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[7c4d21533271aa702d7932231c8e71688439e8b7996e09fe8d67edf00f151946]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[52fccaddb7f90d1cc79a876355174c5cceaa204112eb195b7d159863253b1537]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[6a8cbe1f31e55174eacdfd495f6a9a059139e4457fac3f58b62c501197568811]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[849b593a23278160f7fec42e333bb893d0d6bb43f056f177bc3d50f1db3ce6a3]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[81ae690c5ea7ca52c1723d8e43f7d374998c198e109fdde7f24fa09255de2da2]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[6524b4b3eb0ab58c11223d024cecc39e7858dd00c53898780ca243991805d865]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[6f325459fceada62991f46169d3f1ffb8aa42c30bebf2c8d4e3637f8db497043]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[535518c8024e1b01b72d0042f74ffc0cd57501c56317f7cfc30e1cde13876d65]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[81c9cb9c2e22dbcc35a45a2b8be5d172f66acde2794b2499e50dd5af5e18cae5]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[8d8f25d8481ff18e9a795ee7ed4f1d01587c82f4949ce06db40ff64fc2e1dcf3]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[4c085d53d0346769e79d9c6bbb51d836c25b8aa8bdcca6a436769419af50d58f]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[6390377b4436920fc38a3d7a20076138762742cb2237885b9e6b2d9b60a8da49]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[98b0c925ce6d68ebe212ee07a3063aa0ee5f82d63cc5fca2eb2b012b73e47d65]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[5bbd62274bb6172a025fe607af89b2623234a2d86bc35ca89928a95997ca8cac]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[86ea61322308a90fa457d87eae1c05b0ed978eaf47f869a28227f931098a2ffd]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[a230b328c205792810d7f5c05cbc773a764a107009339bcc63e0d521348728cc]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[a5f415df352ea62a57358d92777849342b7bb41f89a895dfbd0e3c9fd7d53d6f]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[8d3cb87080405e656e448a5e97c02d60c88a79fe096ec71b105a8e0e63a49cda]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[a52b477c549c9a9e35a3b3bf82885f557cee9160cfc70294d4dec33e1eb96a60]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[a96fb2c3f2448c4be8490ee992ca6fd02b736f8037e46a9684b981d8cbf617fe]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[ad7549b4d1acaad0e761eee56da22c787c9a21bc00b3dcb57d1c8c97845a3f7c]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[bb6b7ced6e3b5d1548ad456caf8203738b180ddc8877331cc7b0d1883c60712b]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[b85826fa6b8a644193ad572e2ede92204fafe7caaec450c31ffa431c7966f11d]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[bf92aa9286ab793cc9334c56aeaef581b1c05d73de14754b7e8c43168aa22245]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[b2fdac049dfeabb576f44086019c71783d741aab2fe64e7265d945323c0e9dec]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[bfc9f6f7822efa622df288334ea92ea75997ea8c8be2f236c7bf22cabbb54bb5]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[d3ce774c246bc0f0ad8337ae81a0e694a9be4c74e7dbe8bdc31e74bbcc0beec4]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[d003f31d612ed4e58d1467b872eded818da1616414de33282d583b8a7d24822e]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[cf9f76404af0c53e6c16b954e1d3ac099a16fcbda7ca1979e880b145a91d1520]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[d0d7c1ef31e830346b41ebafe38a84ac3d2e84b257e0d794e3268adb769a3b38]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[dd21a30b42651064b0a3a997b424c0fceddf79f6366afd47653b7ea141eec77a]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[d9b609f898bdadf5583f901512c0ef1a2c85f6fff1e050fe57d4ec3de2443672]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[ec246e49962a5b28cf64587e22ff56581f5e30be8dac799ca7302fc8c8c5814f]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[eef9197bd9379326e949f12eb29099c59e846ef49c28eb8e6303d86dc4140928]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[f242c4e261ac366811995bac6d113595bb8f459333021a4f623a83b5283f8c6b]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[f472bf024f0a599fdc52e9e54d41e45cfcdf81773c3c0a821dd8a90069f63d53]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[f682bef8aa0408d9b8a876d1871ce4a9ca01816b09ce3af71228dacee13872cc]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[f95b68a8cc09c0dcf7e0520dff3ef23c234428d808f933bb7300cede5bdc10fb]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[fb3444fe039767b87a5c8154be51e10394f9cea7a5ccde1e3ea87cd237086428]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[fa877fac62a7ae568273f3a22edcc5190232ba5cb32b305e7cadc66473eb1f76]
+FAILED logtool/scripts/test_fmtool_sdk.py::test_acd_parser[f7a7e9cb7253c78b5505813022da4f3f318862ab6fe749ad8c01dc9fddb2c735]
+"""
+
+# sha256s = re.findall(r"test_acd_parser\[([0-9a-f]+)\]", failure_list)
+
+# for sha256 in sha256s:
+#     sha256, fname, content = crud.get_log(session, sha256)
+#     with open(pathlib.Path(__file__).parent.joinpath("tmp", f"{fname}_{sha256}.json"), "wb") as f:
+#         f.write(content)
+
+@pytest.mark.parametrize("sha256", sha256s)
+def test_acd_parser(sha256: str):
+    sha256, fname, content = crud.get_log(session, sha256)
+    parse_acd(content)

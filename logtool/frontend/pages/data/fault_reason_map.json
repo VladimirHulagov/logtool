@@ -1,0 +1,176 @@
+{
+    "NoErrorDetected": {
+        "IncompleteDump": {
+            "Keywords": [
+                "INCOMPLETE_DUMP"
+            ],
+            "Action": "Others.RemediationFlow"
+        },
+        "NoUncorrMCAError": {
+            "Keywords": [
+                "NO_UNCORR_MCA_ERROR",
+                "NO_ERROR"
+            ],
+            "Action": "Others.RemediationFlow"
+        }
+    },
+    "PlatformFocused": {
+        "PCIeRelated": {
+            "Keywords": {
+                "HW.STUCK_TRANSACTION.TOR": [
+                    "PCIe",
+                    "PCIE",
+                    "pcie",
+                    "IntRegister"
+                ],
+                "HW.MCE.UBOX": [
+                    "Ubox"
+                ],
+                "HW.MCE.IIO": [
+                    "Generic_I/O_",
+                    "General_Ubox_Error",
+                    "IIO"
+                ]
+            },
+            "Action": "Platform.ReplacePCIe"
+        },
+        "OS/SWRelated": {
+            "Keywords": [
+                "Sw_Triple_Fault_Shutdown",
+                "Apic_Error_0020",
+                "Sad_Err",
+                "Core_Wb_Miss_Llc"
+            ],
+            "Action": "Platform.DebugOS/SW"
+        },
+        "DIMMRlated": {
+            "Keywords": [
+                "Poison",
+                "POISON",
+                "Memory_Read_Error",
+                "HW.MCE.iMC",
+                "HW.MCE.IMC",
+                "HW.MCE.M2M",
+                "HW.MCE.MCCHAN",
+                "HW.MCE.B2CMI",
+                "HW.MCE.HA",
+                "Ha_Uncorr_Rd_Error"
+            ],
+            "Action": "Platform.ReplaceDIMM"
+        },
+        "OutdatedBKC": {
+            "Keywords": [
+                "HW.KNOWN_ISSUE"
+            ],
+            "Action": "Platform.UpdateMicrocode"
+        },
+        "TransientPlatformBehavior": {
+            "Keywords": [
+                "Potencial Electrical Issue",
+                "Multiple_iMC_and_Ch_Errors",
+                "Multiple_Ch_Error",
+                "FIVR",
+                "Fivr",
+                "Svid",
+                "SVID",
+                "Thermal",
+                "HW.MCE.UPI",
+                "Dmi",
+                "Power_Management_Unit"
+            ],
+            "Action": "Platform.RemediationFlow"
+        }
+    },
+    "CPUFocused": {
+        "PotentialDefect": {
+            "Keywords": {
+                "HW.STUCK_TRANSACTION": [
+                    "CORE_3STRIKE_ONLY"
+                ],
+                "Shutdown_Error": [
+                    "Mce_When_Mcip_Bit_Is_Set",
+                    "Consistency_Check_Failures",
+                    "Mce_Under_Wps"
+                ],
+                "HW.MCE": [
+                    "Pkgc_Watchdog_Hang_C2_Pslimit",
+                    "Message_Channel_Timeout",
+                    "Core_Multi_Errors",
+                    "Dispatcher_Run_Busy_Timeout",
+                    "MCA_DISPATCHER_RUN_BUSY_TIMEOUT",
+                    "DispatcherTO_with_Core_Inaccessible",
+                    "Iosfsb_Pmreq_Cmp_Timeout",
+                    "Unexpected_Error",
+                    "Ak_Req_Rtid_Table_Miss",
+                    "Dispatcher_Watchdog_Timeout"
+                ],
+                "HW.MCE.PUNIT": [
+                    "Timeout",
+                    "Internal"
+                ],
+                "HW.MCE.PCU": [
+                    "Timeout",
+                    "Internal"
+                ],
+                "HW.MCE.MLC": [
+                    "Uncorr"
+                ],
+                "HW.MCE.MDF": [
+                    "Parity_Error"
+                ],
+                "HW.MCE.IFU": [
+                    "Uncorr"
+                ],
+                "HW.MCE.DTLB": [
+                    "Uncorr"
+                ],
+                "HW.MCE.DCU": [
+                    "Uncorr"
+                ],
+                "HW.MCE.Core": [
+                    "3_Strike_Error",
+                    "Uncorr",
+                    "Copied"
+                ],
+                "HW.MCE.Cbo": [
+                    "Saddram",
+                    "Parity",
+                    "Internal",
+                    "Bl_Req_Rtid_Table_Miss"
+                ],
+                "HW.MCE.CHA": [
+                    "Parity",
+                    "Mult_Llc_Way_Tag_Match",
+                    "Unexp_Rsp",
+                    "Coh_Tt_Error",
+                    "Ak",
+                    "Sighting_under_investigation",
+                    "Uncorr",
+                    "Bl_Req_Rtid_Table_Miss",
+                    "Ha_Unexp_Rsp"
+                ],
+                "HW.MCE.IIO": [
+                    "Internal_Firmware_Error"
+                ],
+                "HW.ERR": [
+                    "Special.Sighting_under_investigation",
+                    "Potencial Defect"
+                ]
+            },
+            "Action": "CPU.FACR"
+        }
+    },
+    "Others": {
+        "Unknown": {
+            "Keywords": [
+                "No FaultReason",
+                "HW.MCE.OTHER",
+                "Mce_When_Cr4.Mce_Is_Clear",
+                "Core inaccessible from PECI",
+                "---",
+                "HW.STUCK_TRANSACTION.TOR"
+            ],
+            "Action": "Others.RemediationFlow"
+        }
+    }
+}
